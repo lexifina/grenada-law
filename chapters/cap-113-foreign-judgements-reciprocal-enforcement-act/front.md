@@ -1,0 +1,1 @@
+An Act to make provision for the enforcement in Grenada of judgements given in foreign countries which accord reciprocal treatment to judgements given in Grenada, for facilitating the enforcement in foreign countries of judgements given in Grenada, and for connected purposes. [Amended by Act No. 17 of 1963.] [20th September, 1958.]

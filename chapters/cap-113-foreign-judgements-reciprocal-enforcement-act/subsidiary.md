@@ -1,0 +1,10 @@
+# Subsidiary legislation printed with the Act
+List of Subsidiary Legislation 1.
+
+Foreign Judgements (Reciprocal Enforcement) (Australia) Order (Repealed) 2. Foreign Judgements (Reciprocal Enforcement) (Commonwealth) Order Foreign Judgements (Reciprocal Enforcement) (Australia) Order SRO 22 of 1986 [Repealed by SRO 6 of 1992.] Foreign Judgements (Reciprocal Enforcement) (Commonwealth) Order SRO 6 of 1992 ARRANGEMENT OF ORDERS 1. Citation. 2. Part I of Chapter No. 113 to apply. 3. Repeal of SRO 22 of 1986. Schedule Countries FOREIGN JUDGEMENTS (RECIPROCAL ENFORCEMENT) (COMMONWEALTH) ORDER Order made by the Governor-General under the authority of section 9(1) of the Foreign Judgements (Reciprocal Enforcement) Act, Chapter No. 113. [SRO 6 of 1992.] [28th February, 1992.]
+
+1. Citation This Order may be cited as the Foreign Judgements (Reciprocal Enforcement) (Commonwealth) Order.
+
+2. Part I of Chapter No. 113 to apply Subject to the provisions of the Foreign Judgements (Reciprocal Enforcement) Act, Chapter No. 113, Part I of that Act shall apply to the countries listed in the Schedule hereto and to judgements obtained in the superior courts of record thereof as it applies to foreign countries and judgements obtained in the courts of foreign countries.
+
+3. Repeal of SRO 22 of 1986 The Foreign Judgements (Reciprocal Enforcement) (Australia) Order, 1986, is hereby repealed. Schedule FOREIGN JUDGEMENTS (RECIPROCAL ENFORCEMENT) ACT FOREIGN JUDGEMENTS (RECIPROCAL ENFORCEMENT) (COMMONWEALTH) ORDER Countries [Section 2.] Antigua and Barbuda Kiribati Sierra Leone Australia Lesotho Singapore Bahamas (The) Malawi Solomon Islands Bangladesh Malaysia Sri Lanka Barbados Maldives (The) Swaziland Belize Malta Tanzania Botswana Mauritius Tonga Brunei-Darrusalam Namibia Trinidad and Tobago Canada Nauru Tuvalu Cyprus New Zealand Uganda Dominica Nigeria United Kingdom Gambia (The) Pakistan Vanatu Ghana Papua New Guinea Western Samoa Guyana Saint Kitts and Nevis Zambia India Saint Lucia Zimbabwe Jamaica Saint Vincent and The Grenadines Kenya Seychelles (The)
