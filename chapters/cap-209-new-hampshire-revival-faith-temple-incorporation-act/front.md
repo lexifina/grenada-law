@@ -1,0 +1,1 @@
+An Act to provide for the incorporation of a body to be known as the Incorporated Trustees of the New Hampshire Revival Faith Temple, and for matters connected therewith. [Act No. 41 of 1986.] [21st November, 1986.]
