@@ -1,0 +1,1 @@
+An Act governing the issue of work permits to foreign nationals and Commonwealth citizens authorising their employment in Grenada, and for connected purposes. [Act No. 18 of 1968 amended by Act No. 4 of 1972, Act No. 5 of 1972, Act No. 30 of 1978, Act No. 9 of 2001.] [29th May, 1968.]
