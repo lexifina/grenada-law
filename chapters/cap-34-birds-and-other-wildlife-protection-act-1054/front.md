@@ -1,0 +1,1 @@
+An Act for the protection of wild birds and other wild life including fish, lobsters, turtle and oysters. [Amended by Act No. 26 of 1964, Act No. 23 of 1980, Act No. 10 of 1990.] [26th January, 1957.]
