@@ -1,0 +1,1 @@
+An Act to provide for the incorporation of the European Communities and to confer privileges and immunities on the Delegation thereof and on other persons. [Act No. 45 of 1986.] [31st December, 1986.]
