@@ -1,0 +1,1 @@
+An Act to provide for the incorporation into the municipal law of Grenada a Treaty between the Government of Grenada and the Government of the United States of America on extradition. [Act No. 2 of 2001.] [9th February, 2001.]
