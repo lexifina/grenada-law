@@ -1,0 +1,1 @@
+An Act to provide for the maintenance of supplies and services essential to the life of the community and for regulating the import and export of such supplies, the prices at which such supplies may be sold, and for purposes connected therewith. [Amended by Act No. 54 of 1979, Act No. 17 of 1980.] [27th September, 1958.]
