@@ -1,0 +1,1 @@
+An Act to make provision for the implementation of the International Convention on the Establishment of an International Fund for Compensation for Oil Pollution Damage, 1992, and for matters connected therewith. [Act No. 6 of 1998.] [21st May, 1999.]
