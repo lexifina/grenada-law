@@ -1,0 +1,1 @@
+An Act to make provision for Bank Holidays, and respecting obligations to make payments and do other acts on Bank Holidays. [Cap. 27 of 1958, amended by Act No. 37 of 1979, Act No. 74 of 1979, Act No. 30 of 1986, Act No. 20 of 1988, Act No. 10 of 1990, Act No. 30 of 1991, Act No. 14 of 1994, Act No. 21 of 1994, Act No. 2 of 1996, Act No. 19 of 1999.] [26th May, 1875.]
