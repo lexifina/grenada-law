@@ -1,0 +1,1 @@
+An Act to make provision for persons who were convicted of certain serious offences in a foreign country and deported to Grenada, subject to an application to the High Court by the Commissioner of Police, to be designated as restricted persons and for a central register to be kept under the management of the Commissioner. [Act No. 14 of 2003.] [31st October, 2003.]
