@@ -1,0 +1,1 @@
+An Act to empower the Minister responsible for finance, with the approval of the Cabinet, to extend or increase concessions or incentives designed to encourage investment in Grenada. [Act No. 13 of 1983.] [2nd March, 1983.]
