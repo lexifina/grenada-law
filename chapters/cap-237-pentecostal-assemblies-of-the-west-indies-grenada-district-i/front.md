@@ -1,0 +1,1 @@
+An Act to provide for the incorporation of a body to be known as the Incorporated Trustees of the Pentecostal Assemblies of the West Indies (Grenada District), to vest in that body certain property now held by the Pentecostal Assemblies of the West Indies and the Pentecostal Assemblies of Canada, and for matters connected therewith. [Act No. 91 of 1979.] [30th November, 1979.]
