@@ -1,0 +1,1 @@
+An Act to enable Grenada to become a Member of the International Monetary Fund, the International Bank for Reconstruction and Development, the International Finance Corporation and the International Development Association. [Act No. 11 of 1975.] [14th July, 1975.]

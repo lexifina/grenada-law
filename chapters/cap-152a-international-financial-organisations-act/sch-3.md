@@ -1,0 +1,18 @@
+# SCHEDULE C
+Election of Executive Directors
+1. The election of the elective executive directors shall be by ballot of the governors eligible to vote under Article XII, section 3(b)(iii) and (iv).
+2. In balloting for the five directors to be elected under Article XII, section 3(b)(iii), each of the governors eligible to vote shall case for one person all of the votes to which he or she is entitled under Article XII, section 5(a). The five persons receiving the greatest number of votes shall be directors, provided that not person who received less that nineteen per cent of the total number of votes that can be cast (eligible votes) shall be considered elected.
+3. When five persons are not elected in the first ballot, a second ballot shall be held in which the person who received the lowest number of votes shall be ineligible for election and in which there shall vote only—
+(a) those governors who voted in the first ballot for a person not elected; and
+(b) those governors whose votes for a person elected are deemed under 4 below to have raised the votes cast for that person above twenty per cent of the eligible votes.
+4. In determining whether the votes cast by a governor are to be deemed to have raised the total of any person above twenty per cent of the eligible votes the twenty per cent shall be deemed to include, first, the votes of the governor casting the largest number of votes for such person, then the votes of the governor casting the next largest number, and so on until twenty per cent is reached.
+5. Any governor part of whose votes must be counted in order to raise the total of any person above nineteen per cent shall be considered as casting all of his votes for such person even if the total votes for such person thereby exceed twenty per cent.
+6. If, after the second ballot, five persons have not been elected, further ballots shall be held on the same principles until five persons have been elected, provided that after four persons are elected, the fifth may be elected by a simple majority of the remaining votes and shall be deemed to have been elected by all such votes.
+7. The directors to be elected by the American Republics under Article XII, section 3(b)(iv) shall be elected as follows—
+(a) each of the directors shall be elected separately;
+(b) in the election of the first director, each governor representing an American Republic eligible to participate in the election shall cast for one person all the votes to which he or she is entitled. The person receiving the largest number of votes shall be elected provided that he or she has received not less than forty-five per cent of the total votes;
+(c) if no person is elected on the first ballot, further ballots shall be held, in each of which the person receiving the lowest number of votes shall be eliminated, until one person receives a number of votes sufficient for election under (b) above;
+(d) governors whose votes contributed to the election of the first director shall take no part in the election of the second director;
+(e) persons who did not succeed in the first election shall not be eligible for election as the second director;
+(f) a majority of the votes which can be cast shall be required for election of the second director. If at the first ballot no person receives a majority, further ballots shall be held in each of which the person receiving the lowest number of votes shall be eliminated, until some person obtains a majority;
+(g) the second director shall be deemed to have been elected by all the votes which could have been cast in the ballot securing his election.
