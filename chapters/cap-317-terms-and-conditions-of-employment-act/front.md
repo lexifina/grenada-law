@@ -1,0 +1,1 @@
+An Act to make further and better provision for securing, in certain cases, the observance of terms or conditions of employment recognised in a trade or industry. [Act No. 28 of 1968 amended by Act No. 10 of 1990.] [20th July, 1968.]
