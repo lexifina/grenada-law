@@ -1,0 +1,1 @@
+An Act to provide for the designation and maintenance of national parks and protected areas, and for connected purposes. [Act No. 42 of 1990 amended by Act No. 12 of 1991, Act No. 52 of 1991, Act No. 16 of 2007, Act No. 20 of 2009.] [1st February, 1991.]
