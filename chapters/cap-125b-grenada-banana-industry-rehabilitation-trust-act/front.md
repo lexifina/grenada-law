@@ -1,0 +1,1 @@
+An Act to authorise the Minister responsible for Agriculture to execute the trust deed by virtue of which a trust to administer funds provided by the European Commission and other sources for the rehabilitation of the banana industry in Grenada will be established. [Act No. 25 of 1999.] [26th November, 1999.]
