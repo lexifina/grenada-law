@@ -1,0 +1,1 @@
+An Act to provide for the proper incidence of expenses arising out of the trial and the conviction or acquittal on the ground of insanity of citizens of Grenada tried by foreign courts. [25th October, 1889.]
