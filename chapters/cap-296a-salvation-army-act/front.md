@@ -1,0 +1,1 @@
+An Act to provide for the Incorporation of The Salvation Army and to vest the property of The Salvation Army in The General for the time being of the said Salvation Army. [Act No. 9 of 1997.] [20th June, 1997.]
