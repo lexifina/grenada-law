@@ -1,0 +1,1 @@
+An Act to provide for the implementation of the Agreement establishing the Caribbean Examinations Council, and to protect the integrity of examinations held by the Council. [Act No. 15 of 1988 amended by Act No. 16 of 1988.] [20th May, 1988.]
