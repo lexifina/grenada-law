@@ -1,0 +1,1 @@
+An Act to provide for the incorporation of a body to be known as the Incorporated Trustees of the New Testament Church of God, and for matters connected therewith. [Act No. 16 of 1963.] [7th September, 1963.]
