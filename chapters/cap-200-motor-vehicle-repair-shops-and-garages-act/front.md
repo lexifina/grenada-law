@@ -1,0 +1,1 @@
+An Act to control the establishment and regulate the operation of motor vehicle repair shops and garages, and to improve the standard of motor vehicle repairs, and to provide for connected matters. [Act No. 47 of 1973.] [30th August, 1974.]
