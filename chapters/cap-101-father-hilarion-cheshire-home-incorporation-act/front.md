@@ -1,0 +1,1 @@
+An Act to provide for the incorporation of, and the vesting of property in, the Incorporated Trustees of the Father Hilarion (Cheshire) Home, and for matters connected therewith. [Act No. 57 of 1980.] [28th November, 1980.]
