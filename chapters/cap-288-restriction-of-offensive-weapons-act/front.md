@@ -1,0 +1,1 @@
+An Act to restrict the manufacture, importation and disposal of offensive weapons and to prohibit the possession of offensive weapons in a public place without lawful authority or reasonable excuse, and to provide for connected matters. [Act No. 14 of 1961 amended by Act No. 38 of 1972.] [9th December, 1972.] PART I Restriction of Offensive Weapons
