@@ -1,0 +1,1 @@
+An Act to make provision for the maintenance of supplies and services essential to the life of the community on the occurrence of a national disaster, and for connected matters. [Act No. 15 of 1984.] [21st September, 1984.]
