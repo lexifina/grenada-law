@@ -1,0 +1,1 @@
+An Act to provide for the incorporation of, and the vesting of property in, the Incorporated Conference Board of Trustees of the African Methodist Episcopal Church in Grenada. [Act No. 30 of 1974.] [11th April, 1975.]
