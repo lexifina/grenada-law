@@ -1,0 +1,1 @@
+An Act to provide for the development of the Cruise Ship Complex in St. George's; to authorise the Government to guarantee the borrowing of monies for the development of the Cruise Ship Complex, and to make provision for the payment of the monies borrowed. [Act No. 7 of 2003.] [11th April, 2003.]
