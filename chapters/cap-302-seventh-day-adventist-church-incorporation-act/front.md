@@ -1,0 +1,1 @@
+An Act to provide for the incorporation of the Seventh Day Adventist Church in Grenada as a body to be known as the Incorporated Trustees of the Seventh Day Adventist Church. [Act No. 12 of 1971.] [10th July, 1971.]
