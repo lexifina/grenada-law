@@ -1,0 +1,1 @@
+An Act to render illegal certain practices indulged in at public meetings or other gatherings; to empower the Minister to prohibit and control public meetings if the interests of good order or public safety so require, and to provide for connected matters. [Amended by Act No. 10 of 1959.] [24th October, 1959.]
