@@ -1,0 +1,1 @@
+An Act to provide for the imposition and collection of a charge payable on the purchase of food or drinks at hotels, and for connected matters. [Act No. 5 of 1973 amended by Act No. 33 of 1975.] [12th May, 1973.]
