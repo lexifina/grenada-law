@@ -1,0 +1,3 @@
+# 70B. Written statement of charge to be supplied to accused
+When any person is charge with any criminal offence, the person proffering the charge shall supply to the person charged a written statement of the charge, at least five days before the hearing of that charge commences:
+Provided that if it is not practicable and feasible in a particular case to supply to the person charged with such written statement of the said charge at least five days before the hearing of the said charge commences, the person proffering the said charge shall supply to the person charged such written statement of the said charge as soon as it is reasonably practicable to do so.

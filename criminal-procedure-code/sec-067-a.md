@@ -1,0 +1,2 @@
+# 67A. Public to be excluded in sexual cases
+Notwithstanding section 10(iv), or any other law, a Judge or Magistrate shall, in any matter before him or her involving a sexual offence or indecent assault, order that no person other than the officers of the Court, the virtual complainant, other persons engaged in the prosecution, and the accused, his or her witnesses and his or her Counsel, if any, shall have access to or remain in the room or building in which the matter is being heard.
