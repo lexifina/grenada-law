@@ -1,0 +1,1 @@
+An Act to provide for the imposition of a tax payable on the purchase of foreign currency, and for connected purposes. [Act No. 3 of 1977 amended by Act No. 5 of 1978, Act No. 9 of 1980, Act No. 11 of 1986, Act No. 29 of 1987.] [6th April, 1977.]
