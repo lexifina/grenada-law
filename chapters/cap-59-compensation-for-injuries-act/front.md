@@ -1,0 +1,1 @@
+An Act to provide for the compensation of the families of persons killed by accidents, and to extend and regulate the liability of employers to make compensation for personal injuries suffered by workmen in their service. [Amended by Act No. 10 of 1990.] [28th January, 1885.]
