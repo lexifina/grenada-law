@@ -1,0 +1,1 @@
+An Act to authorise the payment otherwise than to executors or administrators of small sums of money due to deceased persons on account of salary or pension payable from public funds. [Amended by Act No. 34 of 1988, Act No. 34 of 1991.] [15th June, 1892.]
