@@ -1,0 +1,1 @@
+An Act to give statutory effect to certain provisions of an agreement between the Government and the Inter-American Institute of Agricultural Sciences concerning the privileges and immunities of the Institute, and for connected matters. [Act No. 39 of 1982.] [20th August, 1982.]
