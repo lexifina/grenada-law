@@ -1,0 +1,1 @@
+An Act to provide for the establishment of a Financial Intelligence Unit, which will be the national centralised unit in Grenada for the collection, analysis and dissemination of suspicious transaction information to competent authorities. [Act No. 1 of 2003 amended by Act No. 20 of 2008.] [31st January, 2003.]
