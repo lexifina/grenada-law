@@ -1,0 +1,1 @@
+An Act to encourage the hotel industry by granting certain relief in respect of customs duties to persons who expend moneys upon the construction or equipment of hotels in Grenada, and for connected purposes. [Amended by Act No. 16 of 1965, Act No. 16 of 1966, Act No. 7 of 1971, Act No. 20 of 1980, Act No. 12 of 1993, Act No. 12 of 2006.] [20th May, 1954.]
