@@ -1,0 +1,1 @@
+An Act to make provision for the punishment of certain offences of malicious damage to public and private property, and for connected matters. [Act No. 39 of 1973 amended by Act No. 52 of 1991.] [31st May, 1974.]
