@@ -1,0 +1,1 @@
+An Act to provide for the imposition of a Levy on Cruise Ship Visitors. Be it enacted by the Queen's Most Excellent Majesty, by and with the advice and consent of the Senate and the House of Representatives of Grenada, and by the authority of the same, as follows. [Amended by Act No. 20 of 1994.] [25th May, 1990.]
