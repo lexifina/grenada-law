@@ -1,0 +1,1 @@
+An Act to provide for pension for Judges of the Supreme Court of Grenada and the West Indies Associated States known outside Grenada as the Eastern Caribbean Supreme Court, and for matters connected therewith or incidental thereto. [Act No. 11 of 1994.] [24th June, 1994.]
