@@ -1,0 +1,1 @@
+An Act to give legal effect to certain provisions of the Agreement establishing a West Indies Shipping Corporation, made between the Governments of Grenada, Antigua, Barbados, Belize, Dominica, Guyana, Jamaica, Montserrat, Saint Kitts/ Nevis/Anguilla, Saint Lucia, Saint Vincent and Trinidad and Tobago on the 3rd October, 1975. [Act No. 45 of 1980.] [30th April, 1976.]
