@@ -1,0 +1,1 @@
+An Act to make provision for the preparation and publication of a Continuous Revised Edition of the Laws of Grenada, and for matters incidental thereto and connected therewith. [Act No. 37 of 1994.] [25th November, 1994.]
