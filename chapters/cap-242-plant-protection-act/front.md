@@ -1,0 +1,1 @@
+An Act to provide for the control of pests injurious to plants, and to prevent the importation of plants and materials harmful to agriculture. [Act No. 19 of 1986 amended by Act No. 3 of 2002, Act No. 13 of 2005.] [8th April, 1986.]
