@@ -1,0 +1,1 @@
+An Act to provide for the payment of pensions to teachers in Government schools and assisted schools. [Amended by Act No. 39 of 1978, Act No. 37 of 1982, Act No. 24 of 1983, Act No. 52 of 1991, Act No. 4 of 1994, Act No. 4 of 1996.] [1st January, 1943.]
