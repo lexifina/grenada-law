@@ -1,0 +1,1 @@
+An Act to make provision for assisting the fishing industry by way of loans for the building of fishing boats and for the equipment thereof with engines and sails. [Amended by SRO 15 of 1959.] [12th September, 1956.]
