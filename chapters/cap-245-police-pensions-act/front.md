@@ -1,0 +1,1 @@
+An Act to regulate the grant of pensions and other allowances to non-commissioned officers and constables of the Police Force. [Amended by Act No. 33 of 1974, Act No. 24 of 1983, Act No. 27 of 1995.] [15th January, 1931.]
