@@ -1,0 +1,1 @@
+An Act to prohibit the wearing of uniforms in connection with political objects and the maintenance by private persons of associations of military or similar character; and to make provision for the preservation of public order on the occasion of public processions and meetings and in public places. [Amended by Act No. 23 of 1973, Act No. 15 or 1974.] [20th February, 1979.]
