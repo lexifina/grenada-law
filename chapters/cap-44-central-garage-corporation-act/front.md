@@ -1,0 +1,1 @@
+An Act to establish the Central Garage Corporation with responsibility to supply and maintain vehicles and mobile plant and equipment principally for the use of the Government, and to make provision for incidental and connected purposes. [Act No. 36 of 1986.] [8th September, 1986.]
