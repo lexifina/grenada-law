@@ -1,0 +1,1 @@
+An Act to provide for the protection of Amerindian art work and Pre-Columbian artefacts and archaeological remains, and for connected matters. [Act No. 18 of 1990 amended by SRO 22 of 2009.] [23rd November, 1990.]
