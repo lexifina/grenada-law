@@ -1,0 +1,5 @@
+# 275A. Falsification of accounts
+(1) Whoever being a clerk, officer or servant, or a person employed or acting in the capacity of a clerk, officer or servant, wilfully and with intent to defraud-
+(a) removes, conceals, destroys, alters, mutilates or falsifies any book, paper, writing, valuable security or account which belongs to or is in the possession of his or her employer, or has been received by him or her for and on account of his employer; or
+(b) makes, or concurs in making any false entry in, or omits or alters or concurs in omitting or altering any material particular from or in any book, document or account which belongs to or is in the possession of his employer, or has been received by him for or on behalf of his or her employer, shall be liable to imprisonment for seven years.
+(2) Whoever being an officer of a partnership, company or corporation wilfully, and with intent to defraud, publishes any account, statement or prospectus relating to the affairs of the partnership, company or corporation which he knows to be false in any material particular, shall be liable to imprisonment for seven years.

@@ -1,0 +1,5 @@
+# 187C. Carnal knowledge of step-child, foster-child, ward or dependant forbidden
+(1) Any person of the age of twenty-one years or over who has carnal knowledge of another person under thirteen years of age when this other person is the step-child, foster-child, ward or dependant in the custody of the person having such carnal knowledge, shall be liable to imprisonment for fifteen years.
+(2) Any person of the age of twenty-one years or over who has carnal knowledge of another person above thirteen years of age when this other person is the step-child, foster-child, ward or dependant in the custody of the person having such carnal knowledge, shall be liable to imprisonment for five years.
+(3) A person shall not be guilty of an offence under this section if that person is the lawful spouse of the person of whom he has had carnal knowledge.
+(4) no prosecution for an offence under this section shall be instituted except with the prior written consent of the Director of Public Prosecutions.
