@@ -1,0 +1,1 @@
+An Act to give legal effect to an agreement between the Government of Grenada and other Member States of the Organisation of Eastern Caribbean States concerning Social Security. [Act No. 8 of 2000.] [2nd February, 2000.]
