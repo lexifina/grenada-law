@@ -1,0 +1,1 @@
+An Act relating to the capacity, property and liabilities of married women, and the liabilities of husbands, and to proceedings against, and contributions between, joint tortfeasors. [15th August, 1936.]
