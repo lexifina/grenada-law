@@ -1,0 +1,1 @@
+An Act to give legislative effect to certain provisions of an agreement establishing the Council of Legal Education and to provide for the incorporation in Grenada of the Council. [Act No. 19 of 1972 amended by Act No. 48 of 1972, SRO 10 of 1973, SRO 19 of 1985, Act No. 10 of 1990.] [20th September, 1971.]
