@@ -1,0 +1,1 @@
+An Act to provide for the incorporation of a body to be known as the Incorporated Trustees of the Open Bible Standard Churches of Grenada, and for matters connected therewith. [Act No. 75 of 1979.] [28th September, 1979.]
