@@ -1,0 +1,1 @@
+An Act to give effect to the convention approved by the General Assembly of the United Nations on 9th December, 1948, concerning the prevention and punishment of the crime of genocide. [Act No. 37 of 1972.] [25th November, 1972.]
