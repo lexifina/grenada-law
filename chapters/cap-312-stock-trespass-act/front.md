@@ -1,0 +1,1 @@
+An Act for the recovery of damages done by reason of trespasses by horses, mules, asses, cattle, sheep, goats, and pigs upon land. [Amended by Act No. 43 of 1973, Act No. 13 of 1974, Act No. 41 of 1990, Act No. 29 of 2000.] [20th February, 1849.]
