@@ -1,0 +1,1 @@
+An Act to provide for the implementation of the Treaty Establishing the Eastern Caribbean Telecommunications Authority, and for matters connected therewith. [Act No. 30 of 2000.] [15th November, 2000.]
