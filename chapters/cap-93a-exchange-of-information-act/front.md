@@ -1,0 +1,1 @@
+An Act to make provision for assisting foreign regulatory authorities in obtaining information from within Grenada, and other related matters. [Act No. 2 of 2003 amended by Act No. 12 of 2003.] [31st January, 2003.]
