@@ -1,0 +1,1 @@
+An Act to render more simple and effectual the titles by which congregations or societies for purposes of religious worship or education, in Grenada, hold property for such purposes. [11th February, 1852.]
