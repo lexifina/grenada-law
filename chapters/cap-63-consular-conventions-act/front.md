@@ -1,0 +1,1 @@
+An Act to confer upon the consular officers of foreign countries with which consular conventions are concluded by Her Majesty certain powers relating to the administration of the estates and property of deceased persons, and to give them certain powers with respect to foreign ships wrecked in Grenada and their cargoes. [Amended by Act No. 16 of 1971.] [31st May, 1952.]
