@@ -1,0 +1,1 @@
+An Act to make new provision for enabling the High Court to assist in obtaining evidence required for the purposes of proceedings in other jurisdictions; to extend the powers of the High Court to issue process effective for securing the attendance of witnesses, and for matters connected therewith. [Act No. 7 of 1993.] [7th May, 1993.]
