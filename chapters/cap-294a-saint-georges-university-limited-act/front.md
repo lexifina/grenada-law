@@ -1,0 +1,1 @@
+An Act to give legal effect to Charter for the St. George's University Limited and an Agreement between the Government of Grenada and the said St. George's University Limited with respect to its operation and the said development. [Act No. 18 of 1996 amended by Act No. 19 of 2002, SRO 14 of 2003, Act No. 12 of 2011.] [20th September, 1996.]
