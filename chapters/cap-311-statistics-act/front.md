@@ -1,0 +1,1 @@
+An Act to provide for the taking of census and for the collection, compilation, analysis and publication of certain statistical information, and for other matters relating thereto. [Act No. 30 of 1960 amended by Act No. 21 of 1961.] [3rd December, 1960.]
