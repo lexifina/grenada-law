@@ -1,0 +1,1 @@
+An Act to provide for the incorporation of a body to be known as the Incorporated Trustees of the General Assembly of the Church of God in Grenada and for the vesting of property therein, and for matters connected therewith. [Act No. 50 of 1980.] [24th October, 1980.]
