@@ -1,0 +1,1 @@
+An Act to provide for the incorporation of a body to be known as the Incorporated Trustees of the Church of God (7th Day), and for matters connected therewith [Act No. 51 of 1980.] [24th October, 1980.]
