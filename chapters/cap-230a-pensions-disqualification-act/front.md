@@ -1,0 +1,1 @@
+An Act to disqualify persons who are appointed to the service of the Government of Grenada on or after the appointed day from pensions, gratuities or other benefits under the Scheduled enactments. [Act No. 24 of 1983.] [4th April, 1983.]
