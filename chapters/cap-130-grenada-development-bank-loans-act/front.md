@@ -1,0 +1,1 @@
+An Act to make provision for the raising of a loan for the purpose of financing the lending operations of the Grenada Development Bank, and for matters incidental thereto. [Act No. 22 of 1965 amended by Act No. 20 of 1975, Act No. 11 of 1976, Act No. 2 of 1977, Act No. 33 of 1980.] [10th July, 1965.]
