@@ -1,0 +1,1 @@
+An Act to provide for the incorporation of a body to be known as the Incorporated Trustees of the Evangelical Churches of the West Indies, and for matters connected therewith. [Act No. 8 of 1965.] [17th April, 1965.]
