@@ -1,0 +1,2 @@
+# 36K. Offence
+If any person in a written statement tendered in evidence in criminal proceedings by virtue of section 36C wilfully makes a statement material in those proceedings which he or she knows to be false or does not believe to be true, he or she shall be liable on conviction on indictment to a fine not exceeding ten thousand dollars or to imprisonment for a term not exceeding seven years or to both such fine and imprisonment.

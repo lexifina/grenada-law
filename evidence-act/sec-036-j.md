@@ -1,0 +1,6 @@
+# 36J. Admissibility of evidence as to credibility of maker of statement
+(1) Where in any proceedings a statement made by a person who is not called as a witness in those proceedings is given in evidence pursuant to section 36D, 36E, 36F or 36G-
+(a) any evidence which, if that person had been so called would have been admissible as relevant to his or her credibility as a witness, shall be admissible in the proceedings for that purpose;
+(b) evidence may, with the leave of the Court, be given for any matter which, if that person had been called as a witness, could have been put to him or her in cross-examination as relevant to his or her credibility as a witness but of which evidence could not have been adduced by the party cross-examining him or her;
+(c) evidence tending to prove that, whether before or after he or she made the statement, that person made, (whether orally or in a document or otherwise) another statement inconsistent therewith, shall be admissible for the purpose of showing that the person has contradicted himself or herself.
+(2) References in subsection (1) to a person who made the statement and to his or her making the statement shall be construed respectively as including references to the person who supplied the information from which the document containing the statement was derived and to his or her supplying that information.
