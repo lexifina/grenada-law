@@ -1,0 +1,1 @@
+An Act to provide for the imposition of a tax on tickets issued for overseas travel. [Act No. 26 of 1980 amended by Act No. 27 of 1990, Act No. 6 of 1991, Act No. 2 of 1992, Act No. 34 of 1998, Act No. 11 of 1999.] [2nd May, 1980.]

@@ -1,0 +1,4 @@
+# 8A. Provisions of Income Tax Act, Chapter 149A, to apply
+(1) Where a carrier fails to pay the ticket tax when it becomes due under section 5, the Comptroller may file with the bailiff a warrant certified by the Comptroller as correct of the ticket tax due and payable and unpaid.
+(2) A warrant filed under subsection (1) shall be treated by the bailiff as having the same effect as a civil judgement given by a court of competent jurisdiction in favour of the Comptroller for a debt in the amount specified in the warrant, and the bailiff shall proceed to levy on the goods and chattels of the person named in the warrant to such extent as is necessary for the recovery of the unpaid ticket tax and to meet any proper charges of the bailiff.
+(3) A warrant for the purposes of this section shall be in the form prescribed in the Schedule to this Act.
