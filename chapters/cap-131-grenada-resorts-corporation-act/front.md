@@ -1,0 +1,1 @@
+An Act to provide for the establishment of the Grenada Resorts Corporation for the management of certain properties on behalf of the Government, and for connected matters. [Act No. 99 of 1979.] [21st December, 1979.]
