@@ -1,0 +1,1 @@
+An Act to provide for the approval of a Finance Contract between the Government of Grenada and the European Investment Bank with respect to the OECS Solid Waste Management. [Act No. 32 of 1996.] [17th January, 1997.]

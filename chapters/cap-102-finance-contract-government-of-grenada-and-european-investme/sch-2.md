@@ -1,0 +1,2 @@
+# SCHEDULE C
+Amortisation Table Project: Oecs Solid Waste Project – A Due date of Instalment Amounts to be repaid expressed as percentage of the loan as defined in Article 2.01 1. 5th October 2003 7.69% 2. 5th October 2004 7.69% 3. 5th October 2005 7.69% 4. 5th October 2006 7.69% 5. 5th October 2007 7.69% 6. 5th October 2008 7.69% 7. 5th October 2009 7.69% 8. 5th October 2010 7.69% 9. 5th October 2011 7.69% 10. 5th October 2012 7.69% 11. 5th October 2013 7.69% 12. 5th October 2014 7.69% 13. 5th October 2015 7.72% 100.0%
