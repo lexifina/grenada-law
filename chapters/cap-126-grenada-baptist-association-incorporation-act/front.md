@@ -1,0 +1,1 @@
+An Act to provide for the incorporation of a body to be known as the Incorporated Trustees of the Grenada Baptist Association, and for matters connected therewith. [Act No. 33 of 1984.] [30th November, 1984.]
