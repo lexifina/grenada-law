@@ -1,0 +1,1 @@
+An Act to provide for the employment of persons sentenced to short terms of imprisonment on public works outside the prison. [Amended by Act No. 7 of 1960, Act No. 53 of 1979, Act No. 66 of 1979 and Act No. 36 of 1980.] [19th December, 1953.]
