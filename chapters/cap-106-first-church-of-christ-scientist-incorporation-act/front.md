@@ -1,0 +1,1 @@
+An Act to provide for the incorporation of a body to be known as the Incorporated Trustees of the First Church of Christ, Scientist, of Saint George's, Grenada, and for matters connected therewith. [Act No. 8 of 1983 amended by Act No. 20 of 1989.] [4th February, 1983.]
