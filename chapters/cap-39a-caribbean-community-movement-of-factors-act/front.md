@@ -1,0 +1,1 @@
+An Act to give effect to certain provisions of the CARICOM Treaty and to facilitate the development of the CARICOM Single Market and Economy. [Act No. 17 of 2006.] [20th September, 2006.] PART I Preliminary
