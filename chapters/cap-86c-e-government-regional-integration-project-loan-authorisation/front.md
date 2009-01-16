@@ -1,0 +1,1 @@
+An Act to authorise the Minister of Finance to borrow from the International Development Association an amount as nearly as may be the sum of 6.5 million Eastern Caribbean Dollars. [Act No. 3 of 2009.] [16th January, 2009.]
