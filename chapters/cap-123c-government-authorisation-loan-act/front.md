@@ -1,0 +1,1 @@
+An Act to authorise the Minister of Finance to raise by way of loan a sum of twenty million for the purpose of supporting the implementation of the fiscal budget of the Government for the year two thousand and nine. [Act No. 8 of 2009.] [9th April, 2009.]
