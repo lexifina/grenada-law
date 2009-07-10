@@ -1,0 +1,1 @@
+An Act to authorise the Minister of Finance to borrow from the International Development Association an amount as nearly as may be a sum equivalent to 1.9 million United States Dollars. [Act No. 16 of 2009.] [10th July, 2009.]
