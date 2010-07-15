@@ -1,0 +1,1 @@
+An Act to authorise the Minister of Finance to borrow from the International Development Association and the International Bank for Reconstruction and Development an amount of eight million United States Dollars. [Act No. 14 of 2010.] [15th July, 2010.]
