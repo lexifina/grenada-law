@@ -1,0 +1,5 @@
+A 639 2011 Post Office (Amendment) Regulations SRO. 34 GRENADA STATUTORY RULES AND ORDERS NO. 34 OF 2011 THE MINISTER IN EXERCISE OF THE POWERS CONFERRED ON HIM BY SECTION 51 (1) OF THE POSTAL CORPORATION ACT, NO. 21 OF 1996 MAKES THE FOLLOWING REGULATIONS– (Gazetted 25th November, 2011).
+
+1. Citation. These Regulations may be cited as the POST OFFICE (AMENDMENT) REGULATIONS, 2011.
+
+2. Amendment of the First Schedule. The First Schedule to the principal Regulations is amended by deleting paragraph (a) thereof and substituting the following– "(a) Within the State of Grenada: Cents Letters per half ounce in weight and each additional ounce or part thereof … … … … … … … … … … .40 Postcards, printed papers and newspapers, per half ounce in weight and each additional ounce or part thereof … … .25 Blind Literature … … … … … … … … … … Free" Made by the Minister this 15th day of November, 2011. DENNETH MODESTE Minister responsible for Postal Services. )))))) GRENADA )))) PRINTED BY THE GOVERNMENT PRINTER, AT THE GOVERNMENT PRINTING OFFICE, ST. GEORGE'S 25/11/2011. A 640 SRO. 30 Minimum Wages Order
