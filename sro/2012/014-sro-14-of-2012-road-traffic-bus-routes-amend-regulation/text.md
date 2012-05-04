@@ -1,0 +1,7 @@
+A 325 2012 Road Traffic (Bus Routes) (Amendment) SRO. 14 Regulations GRENADA STATUTORY RULES AND ORDERS NO. 14 OF 2012 THE MINISTER OF COMMUNICATIONS AND WORKS IN THE EXERCISE OF POWERS CONFERRED ON HIM PURSUANT TO SECTION 122 OF THE ROAD TRAFFIC ACT CAP 289A OF THE CONTINUOUS REVISED EDITION OF THE LAWS OF GRENADA 2010, MAKES THE FOLLOWING REGULATIONS – (Gazetted 4th May, 2012).
+
+1. Citation. These Regulations may be cited as the– ROAD TRAFFIC (BUS ROUTES) (AMENDMENT) REGULATIONS, 2012.
+
+2. Interpretation. In these Regulations– "Act" means the Road Traffic Act Cap 289A of the Continuous Revised Edition of the Laws of Grenada 2010; "Board" means the Grenada Transport Board established pursuant to section 3 of the Act; and "Principal Regulations" means the Road Traffic (Bus Routes) Regulations Cap 289A of the Continuous Revised Edition of the Laws of Grenada 2010.
+
+3. Amendment to principal Regulations. The principal Regulations is amended by deleting the words "Licensing Authority" and "Authority" where it appears and substituting therefor the word "Board" save and except in Regulations 5(2)(a); 10 (1)(b), (d), (e) and (g); Regulation 14 (2); Regulation 16; and the First Schedule. A 326 SRO. 14 Road Traffic (Bus Routes) (Amendment) Regulations Made by the Minister this 25th day of April, 2012. DENNETH MODESTE Minister responsible for Communication and Works. GRENADA PRINTED BY THE GOVERNMENT PRINTER, AT THE GOVERNMENT PRINTING OFFICE, ST. GEORGE'S 4/5//2012.
