@@ -1,0 +1,7 @@
+A 835 2014 Excise Tax Order (No. 2) SRO. 21 GRENADA STATUTORY RULES AND ORDERS NO. 21 OF 2014 THE MINISTER IN EXERCISE OF THE POWERS CONFERRED ON HIM BY SECTION 33 (3) OF THE EXCISE TAX ACT, CAP. 94 MAKES THE FOLLOWING ORDER– (Gazetted 30th May, 2014).
+
+1. Citation. This Order may be cited as the– EXCISE TAX ORDER (NO. 2), 2014.
+
+2. Amendment To First Schedule in the Excise Tax Act, Cap. 94. The First Schedule of the Excise Tax Act Cap. 94 is amended, as follows– (a) in heading number 22.03 to heading number 2208.909 by repealing the figure "$4.00" where it appears and substituting therefor the figure "$4.40"; and by repealing the figure "$1.00" where it appears and substituting therefor with the figure "$1.10"; and
+
+(b) in heading number 24.02 to the heading number 2403.999 by repealing the figure "95%" where it appears and substituting therefor the figure "105%"; and by repealing the figure "25%" where it appears and substituting therefor with the figure "35%". Made this 26th day of May, 2014. KEITH C. MITCHELL Minister responsible for Finance, Energy, Economic Development, Trade, Planning & Cooperatives. Approved by the House of Representatives this 27th day of May, 2014. RAPHAEL DONALD Acting Clerk to the House of Representatives. A 836 SRO. 21 Excise Tax Order (No. 2) Approved by the Senate this 29th day of May, 2014. RAPHAEL DONALD Acting Clerk to the Senate. GRENADA PRINTED BY THE GOVERNMENT PRINTER, AT THE GOVERNMENT PRINTING OFFICE, ST. GEORGE'S 30/5/2014.
