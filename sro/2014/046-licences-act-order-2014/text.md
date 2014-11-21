@@ -1,0 +1,5 @@
+A 1009 Licences Act (No.1) Order SRO. 46 GRENADA STATUTORY RULES AND ORDERS NO. 46 OF 2014 THE MINISTER IN EXERCISE OF THE POWERS CONFERRED ON HIM BY SECTION 12 OF THE LICENCES ACT CAP. 172, MAKES THE FOLLOWING ORDER– (Gazetted 21st November, 2014).
+
+1. This Order may be cited as the LICENCES ACT (NO. 1) ORDER, 2014.
+
+2. Amendment of Part II of the First Schedule. Part II of the First Schedule of the Licences Act Cap. 172 is amended by repealing the following items– "Guesthouse ............................................................. 600 Hotels– with 20 bedrooms or less ................................ 1,000 with 21 bedrooms up to 90 bedrooms ............ 1,500 with over 90 bedrooms.................................... 2,500 Refreshment House .................................................... 500". Made by the Minister this 7th day of November, 2014. KEITH MITCHELL Minister responsible for Finance. Approved by the House of Representatives this 13th day of November, 2014. WILLAN THOMPSON Clerk to the House of Representatives. GRENADA PRINTED BY THE GOVERNMENT PRINTER, AT THE GOVERNMENT PRINTING OFFICE, ST. GEORGE'S 21/11/14.
