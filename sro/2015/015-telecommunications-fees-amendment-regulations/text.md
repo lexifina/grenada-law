@@ -1,0 +1,5 @@
+Telecommunications (Fees) (Amendment) Regulations A 37 SRO. 15 2015 GRENADA STATUTORY RULES AND ORDERS NO. 15 OF 2015 The Minister in exercise of the powers conferred on him by Section 73 of the Telecommunications Act Cap. 315C, hereby makes the following Regulations–– (Gazetted 24th April, 2015).
+
+1. Citation. These Regulations may be cited as the TELECOMMUNICATIONS (FEES) (AMENDMENT) REGULATIONS, 2015.
+
+2. Amendment of First Schedule. The First Schedule of the Telecommunications (Fees) Regulations, CAP. 315C, Subsidiary Legislation is amended by repealing the following item– " SUB Subscriber Television Network/Services $0.00 $0.00 $0.00 " and substituting with the following– " SUB Subscriber Television Network/Services $1000 $20,000 3.0% of Gross Annual Revenue except that the minimum fee shall not be less than $20,000 " Made by the Minister this 14th day of April, 2015. GREGORY BOWEN Minister responsible for Telecommunications. GRENADA PRINTED BY THE GOVERNMENT PRINTER, AT THE GOVERNMENT PRINTING OFFICE, ST. GEORGE'S 24/4/2015.
