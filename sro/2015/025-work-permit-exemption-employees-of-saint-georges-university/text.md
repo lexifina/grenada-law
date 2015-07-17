@@ -1,0 +1,7 @@
+Work Permit Exemption (Employees of Saint George's University) Order A 61 SRO. 25 2015 GRENADA STATUTORY RULES AND ORDERS NO. 25 OF 2015 The Minister in exercise of the powers conferred on him by Section 3(4) of the Foreign Nationals and Commonwealth Citizens (Employment) Act Cap. 115 hereby makes the following Order– (Gazetted 17th July, 2015).
+
+1. Citation. These Regulations may be cited as the WORK PERMIT EXEMPTION (EMPLOYEES OF SAINT GEORGE'S UNIVERSITY) ORDER, 2015.
+
+2. Interpretation. In this Order– "the Act" means the Foreign Nationals and Commonwealth Citizens (Employment) Act, Chapter 115; "faculty personnel" means faculty personnel as defined under the Saint George's University Limited Act, Chapter 294A; "Saint George's University Limited" means the Saint George's University Limited regulated pursuant to the Saint George's University Limited Act, Chapter 294A.
+
+3. Exemption. A citizen of a Commonwealth or foreign State who is employed by the Saint George's University Limited as faculty personnel is declared to be exempt from the provisions of the Act in relation to the requirement to obtain a work permit, provided that such citizen has gained lawful entry into Grenada in accordance with the provisions of the Immigration Act, Chapter 145 or any other enactment which entitles him or her to enter and remain in Grenada. Made this 14th day of July, 2015 ELVIN NIMROD Minister responsible for Labour. GRENADA PRINTED BY THE GOVERNMENT PRINTER, AT THE GOVERNMENT PRINTING OFFICE, ST. GEORGE'S 17/7/2015.
