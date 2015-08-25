@@ -1,0 +1,5 @@
+Free Trade and Processing Zone Act (Commencement) Notice A 69 SRO. 29 2015 GRENADA STATUTORY RULES AND ORDERS NO. 29 OF 2015 THE MINISTER IN EXERCISE OF THE POWERS CONFERRED ON HIM PURSUANT TO SECTION 1 OF THE FREE TRADE AND PROCESSING ZONE ACT NO. 25 OF 2015, MAKES THE FOLLOWING NOTICE– (Gazetted 28th August, 2015).
+
+1. Citation. This Order may be cited as the FREE TRADE AND PROCESSING ZONE ACT (COMMENCEMENT) NOTICE, 2015.
+
+2. Commencement. The Free Trade and Processing Zone Act No. 25 of 2015 shall come into force on the 25th day of August, 2015. Made by the Minister this 25th day of August, 2015. OLIVER JOSEPH Minister responsible for Trade. GRENADA PRINTED BY THE GOVERNMENT PRINTER, AT THE GOVERNMENT PRINTING OFFICE, ST. GEORGE'S 28/8/2015.
