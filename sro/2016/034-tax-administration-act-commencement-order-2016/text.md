@@ -1,0 +1,5 @@
+A 405 2016 Tax Administration Act SRO. 34 (Commencement) Order GRENADA STATUTORY RULES AND ORDERS NO. 34 OF 2016 THE MINISTER IN EXERCISE OF THE POWERS CONFERRED ON HIM PUR- SUANT TO SECTION 1 OF THE TAX ADMINISTRATION ACT NO. 14 OF 2016, MAKES THE FOLLOWING ORDER– (Gazetted 27th April, 2016).
+
+1. Citation. This Order may be cited as the– TAX ADMINISTRATION ACT (COMMENCEMENT) ORDER, 2016.
+
+2. Commencement. The Tax Administration Act No. 14 of 2016, shall come into force on the 1st day of May, 2016. Made by the Minister this 26th day of April, 2016. KEITH MITCHELL Minister responsible for Finance. GRENADA PRINTED BY THE GOVERNMENT PRINTER, AT THE GOVERNMENT PRINTING OFFICE, ST. GEORGE'S 27/4/2016.
