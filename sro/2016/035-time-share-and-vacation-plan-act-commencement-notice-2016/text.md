@@ -1,0 +1,5 @@
+A 407 2016 Time-Share and Vacation Plan Act SRO. 35 (Commencement) Notice GRENADA STATUTORY RULES AND ORDERS NO. 35 OF 2016 THE MINISTER IN EXERCISE OF THE POWERS CONFERRED ON HIM PUR- SUANT TO SECTION 1 OF THE TIME-SHARE AND VACATION PLAN ACT NO. 3 OF 2016, MAKES THE FOLLOWING NOTICE– (Gazetted 10th June, 2016).
+
+1. Citation. This Notice may cited as the TIME-SHARE AND VACATION PLAN ACT (COMMENCEMENT) NOTICE, 2016.
+
+2. Commencement. The Time-Share and Vacation Plan Act No. 3 of 2016 shall come into force on the 10th day of June, 2016. Made by the Minister this 9th day of June, 2016. KEITH MITCHELL Minister responsible for Finance. GRENADA PRINTED BY THE GOVERNMENT PRINTER, AT THE GOVERNMENT PRINTING OFFICE, ST. GEORGE'S 10/6/2016.
