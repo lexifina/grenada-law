@@ -1,0 +1,5 @@
+Aliens (Land-Holding Regulation) (Approved Lending Agencies) (Amendment) Order A 411 SRO. 37 2016 GRENADA STATUTORY RULES AND ORDERS NO. 37 OF 2016 The Minister in exercise of the powers conferred on him by Section 2 of the Aliens (Land-Holding Regulation) Act, Cap. 13 of the 2010 Continuous Revised Edition of the Laws of Grenada, makes the following Order– (Gazetted 24th June, 2016).
+
+1. Citation. This Order may be cited as the ALIENS (LAND-HOLDING REGULATION) (APPROVED LENDING AGENCIES) (AMENDMENT) ORDER, 2016.
+
+2. Amendment of Schedule of Aliens (Land-Holding Regulation) (Approved Lending Agencies) Order, Cap. 13. The Schedule to the Aliens (Land-Holding Regulation) (Approved Lending Agencies) Order Cap. 13 of the 2010 Continuous Revised Edition of the Laws of Grenada, is hereby amended as follows:– (i) By inserting after the words "First Citizens Bank Limited", the following– "GOLDMAN SACHS BANK USA" Made by the Minister this 15th day of June, 2016. KEITH C. MITCHELL Minister responsible for National Security. GRENADA PRINTED BY THE GOVERNMENT PRINTER, AT THE GOVERNMENT PRINTING OFFICE, ST. GEORGE'S 24/6/2016.
