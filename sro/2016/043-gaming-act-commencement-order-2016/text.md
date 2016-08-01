@@ -1,0 +1,5 @@
+A 789 2016 Gaming Act (Commencement) Order SRO. 43 GRENADA STATUTORY RULES AND ORDERS NO. 43 OF 2016 THE MINISTER IN EXERCISE OF THE POWERS CONFERRED ON HIM PUR- SUANT TO SECTION 1(2) OF THE GAMING ACT NO. 21 OF 2016, MAKES THE FOLLOWING ORDER– (Gazetted 29th July, 2016).
+
+1. Citation. This Order may be cited as the GAMING ACT (COMMENCEMENT) ORDER, 2016.
+
+2. Commencement. The Gaming Act No. 21 of 2016, shall come into force on the 1st day of August, 2016. Made by the Minister this 25th day of July, 2016. KEITH C. MITCHELL Minister responsible for Finance. GRENADA PRINTED BY THE GOVERNMENT PRINTER, AT THE GOVERNMENT PRINTING OFFICE, ST. GEORGE'S 29/7/2016.
