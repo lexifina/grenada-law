@@ -1,0 +1,5 @@
+A 901 2016 Securities (Advertisement) (Amendment) SRO. 53 Regulations GRENADA STATUTORY RULES AND ORDERS NO. 53 OF 2016 THE MINISTER IN EXERCISE OF THE POWERS CONFERRED ON HIM BY SECTION 160 OF THE SECURITIES ACT CAP. 299A, ON THE RECOMMENDATION OF THE EASTERN CARIBBEAN SECURITIES REGULATORY COMMISSION, MAKES THE FOLLOWING REGULATIONS – (Gazetted 7th October, 2016).
+
+1. Citation. These Regulations may be cited as the SECURITIES (ADVERTISEMENT) (AMENDMENT) REGULATIONS, 2016, and shall be read as one with the Securities Act Cap. 299A, hereinafter referred to as the "principal Regulations".
+
+2. Amendment of section 2 of the principal Regulations. Section 2 of the principal Regulations is amended by inserting after the definition of "authorised person" the following– ""se curities advertisement" means any advertisement for or in connection with securities investment or securities business.". Made by the Minister this 3rd day of October, 2016. KEITH MITCHELL Minister responsible for Finance. GRENADA PRINTED BY THE GOVERNMENT PRINTER, AT THE GOVERNMENT PRINTING OFFICE, ST. GEORGE'S 7/10/2016.
