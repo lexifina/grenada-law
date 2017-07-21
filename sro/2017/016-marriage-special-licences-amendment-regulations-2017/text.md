@@ -1,0 +1,7 @@
+Marriage (Special Licences) (Amendment) Regulations A 67 SRO. 16 2017 GRENADA STATUTORY RULES AND ORDERS NO. 16 OF 2017 The Governor-General in exercise of the powers conferred on her by Section 52 of the Marriage Act Cap. 184, makes the following Regulations– (Gazetted 21st July, 2017).
+
+1. Citation. These Regulations may be cited as the MARRIAGE (SPECIAL LICENCES) (AMENDMENT) REGULATIONS, 2017, and shall be read as one with the Marriage (Special Licences) Regulations Cap. 184, hereinafter referred to as the "principal Regulations".
+
+2. Repeal of Regulation 2 of principal Regulations. Regulation 2 of the principal Regulations is hereby repealed and the following substituted therefor– "2. The Governor-General may in accordance with these Regulations grant a special licence for the marriage of persons in Grenada.".
+
+3. Repeal of Regulation 4 of principal Regulations. Regulation 4 of the principal Regulations is hereby repealed and the following substituted therefor– "4. There shall be attached to the application a solemn declaration made by the applicant before the Registrar-General verifying the facts stated in the application and that the applicant knows no just cause or impediment why the intended marriage should not be solemnised.". Made by the Governor-General this 17th day of July, 2017. CÉCILE E. F. LA GRENADE Governor-General. GRENADA PRINTED BY THE GOVERNMENT PRINTER, AT THE GOVERNMENT PRINTING OFFICE, ST. GEORGE'S 21/7/2017.
