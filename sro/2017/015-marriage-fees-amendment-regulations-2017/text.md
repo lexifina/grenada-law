@@ -1,0 +1,5 @@
+Marriage (Fees) (Amendment) Regulations A 65 SRO. 15 2017 GRENADA STATUTORY RULES AND ORDERS NO. 15 OF 2017 The Governor-General in exercise of the powers conferred on her by Section 52 of the Marriage Act Cap. 184, makes the following Regulations– (Gazetted 21st July, 2017).
+
+1. Citation. These Regulations may be cited as the MARRIAGE (FEES) (AMENDMENT) REGULATIONS, 2017, and shall be read as one with the Marriage (Fees) Regulations Cap. 184, hereinafter referred to as the "principal Regulations".
+
+2. Amendment of Regulation 2 of principal Regulations. Paragraph (d) of regulation 2 is amended by inserting after the words– "(ii) both parties are non-citizens ......................................................... $100.00" the following– "(iii) for issue of a marriage licence by the Governor-General within twenty-four hours of submitting an application ................................................ $540.00. Made by the Governor-General this 17th day of July, 2017. CÉCILE E. F. LA GRENADE Governor-General. GRENADA PRINTED BY THE GOVERNMENT PRINTER, AT THE GOVERNMENT PRINTING OFFICE, ST. GEORGE'S 21/7/2017.
