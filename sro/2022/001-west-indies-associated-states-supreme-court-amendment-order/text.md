@@ -1,0 +1,7 @@
+West Indies Associated States Supreme Court (Amendment) Order A 1 SRO. 1 2022 GRENADA STATUTORY RULES AND ORDERS NO. 1 OF 2022 in the exercise of the powers conferred by section 11 (1) of the West Indies Associated States Supreme Court Order 1967, Chapter 336, the Judicial and Legal Services Commission with the concurrence of the Prime Ministers and Premiers of all the States and Territories, makes the following Order– (Gazetted 7th January, 2022).
+
+1. Citation and commencement.—(1) This Order may be cited as the– WEST INDIES ASSOCIATED STATES SUPREME COURT (AMENDMENT) ORDER, 2022, and shall be read as one with the West Indies Associated States Supreme Court Order 1967 contained in Chapter 336, hereafter referred to as the "Supreme Court Order".
+
+(2) This Order shall be deemed to have come into force on the 1st day of September, 2019.
+
+2. Amendment of Schedule 3 to Supreme Court Order. The Supreme Court Order is amended by repealing the Third Schedule and replacing therefor the following– "THIRD SCHEDULE (section 11) SALARIES OF JUDGES OF SUPREME COURT Chief Justice $285,410.00 per year Justice of Appeal $237,838,00 per year High Court Justice $198,198.00 per year.". West Indies Associated States Supreme Court (Amendment) Order A 2 SRO. 1 2022 GRENADA PRINTED BY THE GOVERNMENT PRINTER, AT THE GOVERNMENT PRINTING OFFICE, ST. GEORGE'S 7/1/2022. Made this 29th day of December, 2021. DAME JANICE M. PEREIRA, DBE Chief Justice and Chairperson of the Judicial and Legal Services Commission.
