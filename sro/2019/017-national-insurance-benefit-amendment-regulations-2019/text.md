@@ -1,0 +1,5 @@
+National Insurance (Benefit) (Amendment) Regulations A 95 SRO. 17 2019 GRENADA STATUTORY RULES AND ORDERS NO. 17 OF 2019 The Minister in exercise of the powers conferred on him by Section 64 of the National Insurance Act, Chapter 205 hereby makes the following Regulations– (Gazetted 6th September, 2019).
+
+1. Citation. These Regulations may be cited as the NATIONAL INSURANCE (BENEFIT) (AMENDMENT) REGULATIONS, 2019 and shall be read as one with the National Insurance (Benefit) Regulations, Chapter 205 hereinafter referred to as the "principal Regulations".
+
+2. Amendment to regulation 13 of principal Regulations. Regulation 13 of the principal Regulations is amended in subregulation (2) by deleting the word "thirty" after the words "divided by" and substituting therefor the words "the number of weeks worked (including any annual leave in the period)". Made by the Minister this 15th day of August, 2019. NICKOLAS STEELE Minister responsible for Social Security. GRENADA PRINTED BY THE GOVERNMENT PRINTER, AT THE GOVERNMENT PRINTING OFFICE, ST. GEORGE'S 6/9/2019.
