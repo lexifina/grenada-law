@@ -1,0 +1,5 @@
+Fiscal Responsibility (Suspension of Sections 7 and 8) Order A 807 SRO. 23 2020 GRENADA STATUTORY RULES AND ORDERS NO. 23 OF 2020 The Minister in exercse of the powers conferred on him by section 10 (1) of the Fiscal Responsibility Act, No. 29 of 2015 hereby makes the following Order– (Gazetted 21st April, 2020).
+
+1. Citation. This Order may be cited as the FISCAL RESPONSIBILITY (SUSPENSION OF SECTIONS 7 AND 8) ORDER, 2020.
+
+2. Suspension of sections 7 and 8 of the Act. The application of sections 7 and 8 of the Fiscal Responsibility Act No. 29 of 2015 is hereby suspended for the fiscal year ending on the 31st day of December 2020, in the light of the state of emergency declared by the Governor-General on the 30th day of March 2020 pursuant to section 17 (1) of the Constitution in response to the confirmation of cases of coronavirus disease (COVID-19) in the State of Grenada. Made by the Minister this 10th day of April, 2020. KEITH C. MITCHELL Minister of Finance. GRENADA PRINTED BY THE GOVERNMENT PRINTER, AT THE GOVERNMENT PRINTING OFFICE, ST. GEORGE'S 21/4/2020.
