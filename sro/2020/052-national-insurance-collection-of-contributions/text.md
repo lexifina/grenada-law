@@ -1,0 +1,13 @@
+National Insurance (Collection of Contributions) (Amendment) (No. 2) Regulations A 1063 SRO. 52 2020 GRENADA STATUTORY RULES AND ORDERS NO. 52 OF 2020 The Minister in exercise of the powers conferred on him by section 64 of The National Insurance Act, Chapter 205 hereby makes the following Regulations– (Gazetted 29th July, 2020).
+
+1. Citation and commencement.—(1) These Regulations may be cited as the NATIONAL INSURANCE (COLLECTION OF CONTRIBUTIONS) (AMENDMENT) (NO. 2) REGULATIONS, 2020, and shall be read as one with the National Insurance (Collection of Contributions) Regulations, Chapter 205 hereinafter referred to as the "principal Regulations".
+
+(2) These Regulations shall come into force on the 31st day of July, 2020.
+
+2. Amendment to regulation 4 of principal Regulations. Regulation 4 of the principal Regulations is amended in subregulation (1) in the chapeau by deleting the words "April, 2020" after the words "As of the 1st day of" and substituting therefor the words "August, 2020".
+
+3. Amendment to regulation 7 of principal Regulations. Regulation 7 of the principal Regulations is amended in subregulation (1) by deleting the words "April, 2020" after the words "As of the 1st day of" and substituting therefor the words "August, 2020".
+
+4. Amendment to Schedule to principal Regulations. The Schedule to the principal Regulations is amended as follows– (a) in Part I by inserting after the following row– April 1, 2020 5% of employees' earnings up to a maximum of $1160 per week or $5,000 per month A 1064 SRO. 52 National Insurance (Collection of Contributions) (Amendment) (No. 2) Regulations GRENADA PRINTED BY THE GOVERNMENT PRINTER, AT THE GOVERNMENT PRINTING OFFICE, ST. GEORGE'S 29/7/2020. the following new row– August 1, 2020 6% of employees' earnings up to a maximum of $1160 per week or $5,000 per month ;
+
+(b) in Part II by inserting after the following row– April 1, 2020 4% of employees' earnings up to a maximum of $1160 per week or $5,000 per month the following new row– August 1, 2020 5% of employees' earnings up to a maximum of $1160 per week or $5,000 per month . Made by the Minister this 28th day of July, 2020. NICKOLAS STEELE Minister with responsibility for Social Security.
