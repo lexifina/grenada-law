@@ -1,0 +1,7 @@
+A 253 SRO. 17 Fiscal Responsibility (Extension of Suspension of Sections 7 and 8) Order GRENADA STATUTORY RULES AND ORDERS NO. 17 OF 2021 The Minister in exercise of the powers conferred on him by section 10 (7) of the Fiscal Responsibility Act, No. 29 of 2015 hereby makes the following Order– (Gazetted 12th March, 2021).
+
+1. Citation. This Order may be cited as the FISCAL RESPONSIBILITY (EXTENSION OF SUSPENSION OF SECTIONS 7 AND 8) ORDER, 2021.
+
+2. Commencement. This Order shall be deemed to have come into force on the 31st day of December, 2020.
+
+3. Suspension of sections 7 and 8 of the Act. Suspension of the application of sections 7 and 8 of the Fiscal Responsibility Act No. 29 of 2015 for the fiscal year ended the 31st day of December 2020 is hereby extended for the fiscal year ending on the 31st day of December 2021, in the light of the state of emergency declared by the Governor-General on the 30th day of March 2020 and on the 11th day of January 2021, pursuant to section 17 (1) of the Constitution in response to the confirmation of cases of coronavirus disease (COVID-19) in the State of Grenada. Made by the Minister this 15th day of February, 2021. GREGORY BOWEN Minister of Finance. _______________ Passed by the House of Representatives this 2nd day of March, 2021. ANDREW AUGUSTINE Clerk to the House of Representatives (Ag.). GRENADA PRINTED BY THE GOVERNMENT PRINTER, AT THE GOVERNMENT PRINTING OFFICE, ST. GEORGE'S 12/3/2021.
