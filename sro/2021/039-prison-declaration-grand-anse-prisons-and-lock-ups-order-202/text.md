@@ -1,0 +1,5 @@
+Prisons (Declaration – Grand Anse Prisons and Lock-ups) Order A 417 SRO. 39 2021 GRENADA STATUTORY RULES AND ORDERS NO. 39 OF 2021 The Minister in exercise of the powers conferred on him by section 4 of the Prisons Act Cap. 254 makes the following Order– (Gazetted 24th September, 2021).
+
+1. Citation. This Order may be cited as the PRISONS (DECLARATION – GRAND ANSE PRISONS AND LOCK-UPS) ORDER, 2021.
+
+2. Declaration. The cells in Building 3 of the Grand Anse Campus of the Saint George's University situate in Grand Anse in the parish of Saint George, as set out in the Schedule, are hereby declared to be prisons and lock-ups with effect from the 24th day of September, 2021, and shall be known as the Grand Anse Prisons and Lock-ups. A 418 SRO. 39 Prisons (Declaration – Grand Anse Prisons and Lock-ups) Order Made by the Minister this 23rd day of September, 2021. KEITH C. MITCHELL Minister responsible for Prisons. GRENADA PRINTED BY THE GOVERNMENT PRINTER, AT THE GOVERNMENT PRINTING OFFICE, ST. GEORGE'S 24/9/2021. SCHEDULE (section 2)
