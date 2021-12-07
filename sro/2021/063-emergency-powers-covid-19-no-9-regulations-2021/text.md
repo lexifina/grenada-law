@@ -1,0 +1,269 @@
+2021 ARRANGEMENT OF REGULATIONS 1.
+
+Citation and commencement 2.
+
+Scope and application 3.
+
+Definitions 4.
+
+Requirement to wear masks in public 5.
+
+Physical distancing and sanitisation protocols for establishments 6.
+
+Operation of establishments, businesses and offices 7.
+
+Vaccination requirements for specified establishments, businesses and offices 8. Education instruction 9. Religious instruction 10. Restriction on social activities and funerals 11. West Indies Associated States Supreme Courts and Magistrate's Courts 12. Restriction on beaches and rivers 13. Public transportation 14. Restriction on visitation 15. Mandatory reporting and isolation 16. Powers of the Chief Medical Officer 17. Duty and powers of Police Force 18. Penalty 19. Fixed penalty notice 20. Payment of fixed penalty 21. Payment of fixed penalty precludes prosecution 22. Certificate of payment or non-payment of fixed penalty Regulations 23. Consequence of failure to pay 24. Transitional provisions SCHEDULE I – NOTICE OF OPPORTUNITY TO PAY FIXED PENALTY SCHEDULE II – ESTABLISHMENTS SUBJECT TO REGULATION 9 2021 GRENADA STATUTORY RULES AND ORDERS NO. 63 OF 2021 In exercise of the powers conferred under section 4 of the Emergency Powers Act, Chapter 88 for the purposes of section 17 of the Constitution, the Cabinet of Grenada makes the following Regulations– (Gazetted 7th December, 2021).
+
+1. Citation and commencement.—(1) These Regulations may be cited as the EMERGENCY POWERS (COVID-19) (NO. 9) REGULATIONS, 2021.
+
+(2) These Regulations shall come into force on the 7th day of December, 2021.
+
+2. Scope and application.—(1) These Regulations shall not apply in the case of a medical emergency.
+
+(2) Where there is any inconsistency between the provisions of these Regulations and the Public Health (COVID-19) Regulations, 2020, the provisions of these Regulations shall prevail to the extent of the inconsistency.
+
+(3) Notwithstanding sub-regulation (2), for the duration of these Regulations, the Public Health (COVID-19) (Restriction on Religious Institutions) Order, 2020, SRO No. 64 of 2020 shall not apply.
+
+3. Definitions. In these Regulations– "grocery store" includes a supermarket and a shop that sell groceries.
+
+4. Requirement to wear masks in public.—(1) No person shall, without reasonable excuse, be in a public space without wearing a face mask in a manner that covers his or her mouth, nose and chin.
+
+(2) No person shall, without reasonable excuse, be in a motor vehicle with another person outside of his or her household without wearing a face mask in a manner that covers his or her mouth, nose and chin. Regulations (3) Where the person under this regulation is a child accompanied by an individual who has responsibility for the child, the individual shall provide and ensure that the child has and wears the face mask as required by this regulation.
+
+(4) The owner or operator of any business, establishment or office which provides goods or services to the public shall ensure that a member of the public is not permitted entry to, or does not otherwise remain within, any enclosed space within the premises of the business, establishment or office, unless the member of the public is wearing a face mask in a manner that covers his or her mouth, nose and chin.
+
+(5) Sub-regulations (1) to (4) shall not apply to–
+
+(a) children under seven years of age;
+
+(b) an employee or agent of the person responsible for the business, establishment or office within an area designated for the employee or agent and not for public access, or within or behind a physical barrier, if there is no other person in the area and subject to such guidelines made by the Ministry of Health; and
+
+(c) those circumstances provided for in guidelines made by the Ministry of Health.
+
+(6) For the purposes of sub-regulations (1) and (2), the circumstances in which a person has a reasonable excuse include where– (a) the person cannot put on, wear or remove a face mask– (i) because of any medical, physical or mental illness or impairment, or disability that inhibits his or her ability to wear a face mask; or
+
+(ii) without severe distress;
+
+(b) the person is travelling with, or providing assistance to, another person and such other person relies on lip-reading to communicate with the first person;
+
+(c) the person removes his or her face mask to avoid harm or injury, or the risk of harm or injury, to himself or herself or others; 2021 (d) the person is travelling to avoid injury, or to escape a risk of harm, and does not have a face mask with him or her;
+
+(e) if it is reasonably necessary for the person to eat or drink, the person removes his or her face mask to eat or drink;
+
+(f) the person has to remove his or her face mask to take medication;
+
+(g) a request is made of that person to remove his or her face mask temporarily for security and identification purposes if necessary for the purpose of receiving services; or
+
+(h) the circumstances are provided for in guidelines issued by the Ministry of Health.
+
+(7) Subject to the exemptions in sub-regulation (5) (b), an employee shall wear a face mask when working in an enclosed public space.
+
+(8) Sub-regulation (1) does not apply to a person on a beach, river or public park, if he or she maintains physical distancing of no less than six feet (6 ft.) to any person outside of his or her household.
+
+5. Physical distancing and sanitisation protocols for establishments.—(1) Every establishment shall– (a) ensure that all customers and staff maintain physical distancing of no less than six feet (6 ft.) in or outside their business, establishment or office;
+
+(b) determine the number of persons that may be permitted in the business, establishment or office at any one time by permitting one person for every thirty square feet (30 sq. ft.) of store space;
+
+(c) place distance markers six feet (6 ft.) apart, indicating where each customer must stand on a line at a checkout point; and
+
+(d) place distance markers six feet (6 ft.) apart on the outside of the business, establishment or office, indicating where customers must stand while waiting to enter the business, establishment or office. Regulations (2) Every business, establishment or office, including operators of motor omnibuses, hiring cars and taxis, shall administer or ensure sanitisation of the hands of every person upon entry into the business, establishment or office.
+
+(3) Employees of a hospital or health care, medical, residential care establishment or facility and members of the Royal Grenada Police Force shall take reasonable steps to comply with the requirements under sub-regulations (1) and (2), unless it is reasonably impracticable.
+
+6. Operation of establishments, businesses and offices.—(1) Subject to sub- regulation (2), every establishment, business and office may operate, provided that the owner or operator of the establishment shall– (a) comply with physical distancing and sanitisation protocols in accordance with regulation 5;
+
+(b) comply with any other conditions imposed by the Commissioner of Police on the direction of the Cabinet; and
+
+(c) comply with the requirements to wear masks in accordance with regulation 4.
+
+(2) An establishment, business or office specified under Schedule II shall operate subject to regulation 7.
+
+(3) If the manager, owner, other person in charge or employee of any establishment, business or office aids, abets or facilitates the contravention of these Regulations, the establishment shall be immediately closed without prejudice to any other penalty in law.
+
+(4) Where a business, establishment and office is unable to operate in accordance with the conditions under sub-regulation (1), the business, establishment or office may continue its business operations by allowing its employees to work remotely from home utilising virtual means.
+
+(5) Where a business, establishment or office is unable to operate in accordance with the conditions under sub-regulation (1) or to continue its business operations by its employees working remotely from home, the business shall suspend or cease its operations.
+
+7. Vaccination requirements for specified establishments, businesses and offices.—(1) An establishment, business or office specified under Schedule II 2021 shall not operate unless it operates with only employees who have produced to the establishment, business or office a COVID-19 vaccination card evidencing that the employee has received at least one dose of a COVID-19 vaccine.
+
+(2) No establishment, business or office specified under Schedule II may continue to operate unless, upon request by the Chief Medical Officer, it produces, in respect of each employee at the operations, a COVID-19 vaccination card evidencing that the employee has received– (a) in the case of the Pfizer COVID-19 vaccine, a second dose not more than three weeks after opening or reopening;
+
+(b) in the case of the AstraZeneca COVID-19 vaccine, a second dose not more than eight weeks after opening or reopening;
+
+(c) in the case of another COVID-19 vaccine that has been approved by the World Health Organization as requiring two doses, a second dose within the period as approved by the World Health Organization; or
+
+(d) a COVID-19 vaccine that has been approved by the World Health Organization as requiring one dose.
+
+(3) No residential care establishment or facility, including an elderly nursing home, shall operate unless it operates with only employees, residents and patients who have produced to the establishment, business or office a COVID-19 vaccination card evidencing that the employee, resident or patient has received at least one dose of a COVID-19 vaccine.
+
+(4) No residential care establishment or facility, including an elderly nursing home may continue to operate unless, upon request by the Chief Medical Officer, it produces, in respect of each employee at the operations and each resident and patient, a COVID-19 vaccination card evidencing that the employee, resident or patient has received– (a) in the case of the Pfizer COVID-19 vaccine or the AstraZeneca COVID-19 vaccine, a second dose;
+
+(b) in the case of another COVID-19 vaccine that has been approved by the World Health Organization as requiring two doses, a Regulations second dose within the period as approved by the World Health Organization; or
+
+(c) a COVID-19 vaccine that has been approved by the World Health Organization as requiring one dose.
+
+(5) In the case of employees of wholesale or retail grocery stores and commercial bakeries for whom food-handling certificates or health certificates are required, and in the case of employees of establishments, businesses or offices that are otherwise subject to this regulation– (a) an employee shall not discharge his or her functions unless he or she produces a COVID-19 vaccination card evidencing that he or she has received at least one dose of a COVID-19 vaccine;
+
+(b) an employee shall not continue to discharge his or her functions unless he or she produces a COVID-19 vaccination card evidencing that he or she has received– (i) in the case of the Pfizer COVID-19 vaccine, a second dose not more than three weeks after the first dose;
+
+(ii) in the case of the AstraZeneca COVID-19 vaccine, a second dose not more than eight weeks after the first dose;
+
+(iii) in the case of another COVID-19 vaccine that has been approved by the World Health Organization as requiring two doses, a second dose within the period as approved by the World Health Organization; or
+
+(iv) a COVID-19 vaccine that has been approved by the World Health Organization as requiring one dose.
+
+(6) The Chief Medical Officer may exempt an employee from the application of sub-regulation (1), (2), (3), (4) or (5) or regulation 8 (4), (5) or (6), if, upon written application to the Chief Medical Officer and accompanied by a certificate of a licensed medical practitioner certifying that vaccination against COVID-19 is not advisable for that employee on medical grounds, the Chief Medical Officer is satisfied that that employee should be exempted on medical grounds. 2021 (7) The Cabinet may exempt an employee from the application of sub- regulation (1), (2), (3), (4) or (5) or regulation 8 (4), (5) or (6) if, upon written application to the Chief Medical Officer stating his or her objections to vaccination on religious grounds, the Cabinet is satisfied that that employee should be exempted on religious grounds.
+
+(8) For the purpose of determining an application under sub-regulation (7), the Cabinet may request additional information from the employee to facilitate due consideration of the application.
+
+(9) Where a food vendor, restaurant or bar provides dining services, these services shall not be provided– (a) unless the establishment, business or office operates in accordance with sub-regulations (1) and (2); and
+
+(b) to a customer unless the customer presents a COVID-19 vaccination card evidencing that– (i) in the case of a type of COVID-19 vaccine requiring two doses, 14 days have elapsed since he or she received the second dose of the COVID-19 vaccine;
+
+(ii) in the case of a type of COVID-19 vaccine requiring one dose, 14 days have elapsed since he or she received the dose of the COVID-19 vaccine.
+
+(10) For the avoidance of doubt, sub-regulation (9) does not preclude the providing of drive-thru or takeaway services to a customer generally.
+
+(11) Every employee subject to this regulation shall have his or her vaccination card available for inspection at all times while discharging his or her functions.
+
+(12) For the avoidance of doubt, in this regulation, "employee" includes an operator, manager, supervisor or staff of an establishment, business or office.
+
+8. Education instruction.—(1) Educational institutions may only operate as authorised by the Minister with responsibility for Education which may include operations remotely by utilising virtual means.
+
+(2) For the avoidance of doubt, sub-regulation (1) does not restrict any activity referred to therein by electronic or virtual means. Regulations (3) A daycare centre shall not operate unless it operates with only employees who have produced to the establishment, business or office a vaccination card evidencing that the employee has received at least one dose of a COVID-19 vaccine.
+
+(4) No daycare centre may continue to operate unless it produces, in respect of each employee at the operations, to the Chief Medical Officer a COVID-19 vaccination card evidencing that the employee has received– (a) in the case of the Pfizer COVID-19 vaccine, a second dose not more than three weeks after its opening or reopening;
+
+(b) in the case of the AstraZeneca COVID-19 vaccine, a second dose not more than eight weeks after its opening or reopening;
+
+(c) in the case of another COVID-19 vaccine that has been approved by the World Health Organization as requiring two doses, a second dose within the period as approved by the World Health Organization; or
+
+(d) having received a COVID-19 vaccine that has been approved by the World Health Organization as requiring one dose.
+
+(5) An employee of a daycare centre shall not discharge his or her functions unless he or she produces a COVID-19 vaccination card evidencing that he or she has received at least one dose of a COVID-19 vaccine.
+
+(6) An employee of a daycare centre shall not continue to discharge his or her functions unless he or she produces a COVID-19 vaccination card evidencing that he or she has received– (a) in the case of the Pfizer COVID-19 vaccine, a second dose not more than three weeks after the first dose;
+
+(b) in the case of the AstraZeneca COVID-19 vaccine, a second dose not more than eight weeks after the first dose;
+
+(c) in the case of another COVID-19 vaccine that has been approved by the World Health Organization as requiring two doses, a second dose within the period as approved by the World Health Organization; or 2021 (d) a COVID-19 vaccine that has been approved by the World Health Organization as requiring one dose.
+
+(7) For the avoidance of doubt, in this regulation, "employee" includes an operator, manager, supervisor or staff of an establishment, business or office.
+
+9. Religious instruction.—(1) Religious institutions are subject to regulation 2 (3) and may operate in accordance with– (a) the requirements to wear masks in accordance with regulation 4; and
+
+(b) the six feet (6 ft.) physical distancing and sanitisation protocols in accordance with regulation 5.
+
+(2) For the avoidance of doubt, sub-regulation (1) do not restrict any activity referred to therein by electronic or virtual means.
+
+10. Restriction on events and gatherings.—(1) A person may hold or attend a funeral ceremony, if the venue can accommodate the number of persons, in compliance with the 6ft physical distancing protocol in accordance with regulation 5.
+
+(2) A person may hold or attend an event or gathering hosting no more than seventy-five persons, provided that the venue can accommodate the number of persons, in compliance with the 6 ft. physical distancing protocol in accordance with regulation 5.
+
+(3) Notwithstanding sub-regulation (2), for the duration of these Regulations, regulation 7 of the Public Health (COVID-19) Regulations, 2020, SRO NO. 59 of 2020 shall not apply in respect of events and gatherings.
+
+(4) Notwithstanding sub-regulation (2), a wedding held at a place of religious instruction may host the number of persons who can be accommodated in compliance with the 6ft physical distancing protocol in accordance with regulation 5.
+
+(5) Recreational or competitive sporting events or gatherings may be hosted provided that the venue can accommodate the persons in compliance with the 6 ft. physical distancing protocol in accordance with regulation 5.
+
+(6) The Commissioner of Police in consultation with the Chief Medical Officer may grant written permission to a person, business or organisation to increase Regulations the number of persons who can be hosted at an event or gathering under sub-regulation (2).
+
+(7) For the avoidance of doubt, every funeral ceremony, event or gathering is subject to the requirements to wear masks in accordance with regulation 4 and the 6 ft. physical distancing and sanitisation protocols under regulation 5.
+
+11. West Indies Associated States Supreme Courts and Magistrate's Courts.— Subject to the Practice Directions of the Eastern Caribbean Supreme Court, the West Indies Associated States Supreme Court shall remain accessible and shall adhere to physical distancing and sanitisation protocols in accordance with regulation 5.
+
+(2) Subject to rules or notices made or issued pursuant to the Magistrates Act, Chapter 177, the Magistrate's Court shall remain accessible and shall adhere to physical distancing and sanitisation protocols in accordance with regulation 5.
+
+12. Restriction on beaches and rivers. Beaches and rivers may be accessed with every person maintaining physical distancing of no less than six feet (6 ft.) to any person outside of his or her household.
+
+13. Public transportation.—(1) For the avoidance of doubt, regulation 5 (2) shall apply in respect of every motor omnibus, hiring car and taxi, and every person travelling in any motor omnibus, hiring car or taxi shall practise good hand hygiene and proper sanitary behaviour.
+
+(2) Notwithstanding regulation 4 (2), every person travelling in any motor omnibus, hiring car or taxi shall wear a face mask in a manner that covers his or her mouth, nose and chin.
+
+(3) No person shall eat or drink while travelling in any motor omnibus, hiring car or taxi.
+
+(4) Operators of motor omnibuses, hiring cars and taxis may only operate as authorised by the Commissioner of Police acting on the direction of the Cabinet.
+
+(5) In this regulation, "motor omnibus", "hiring car" and "taxi" have the meanings assigned under the Road Traffic Act, Chapter 289A.
+
+14. Restriction on visitation.—(1) No person shall visit or be permitted to visit– (a) any place of quarantine or isolation station; 2021 (b) a resident or patient in a residential care establishment or facility, including an elderly nursing home; or
+
+(c) a detainee in a prison.
+
+(2) A hospital may permit no more than one person daily to visit a patient and such person shall be a family member or a designated person.
+
+15. Mandatory reporting and isolation.—(1) Any person who is exhibiting any flu-like symptoms shall immediately notify a police station in his or her parish in accordance with the Parish Boundaries Act, Chapter 224.
+
+(2) Any person who has observed that any other person is exhibiting flu-like symptoms shall notify a police station in his or her parish in accordance with the Parish Boundaries Act, Chapter 224.
+
+(3) Any person who knowingly makes a false report for the purposes of sub- regulation (2) shall be guilty of an offence.
+
+(4) Any person who is asked by any official of the Ministry of Health to submit himself or herself to any testing for COVID-19 shall submit to such testing.
+
+(5) Any person who is directed by the Ministry of Health to submit himself or herself to self-isolation or quarantine shall comply with the direction.
+
+(6) For the purposes of this regulation, the Ministry of Health shall be contacted using the following COVID-19 Helplines– (a) in the case of the island of Grenada, at telephone number 458- 4787; 538-4787 or 438-4787;
+
+(b) in the case of the island of Carriacou or Petit Martinique or any other dependency at telephone number 423-2812 or 423-2813.
+
+16. Powers of the Chief Medical Officer.—(1) Where the Chief Medical Officer is satisfied that an establishment, business or office specified under Schedule II is in contravention of regulation 7, in addition to any other penalty under these Regulations, the Chief Medical Officer may direct the closure of the establishment, business or office for seven calendar days to facilitate compliance with that regulation. Regulations (2) Where it appears to the Chief Medical Officer that an establishment, business or office is not complying with the protocols under the Public Health (COVID-19) Regulations, 2020, SRO No. 59 of 2020, the Chief Medical Officer may direct the closure of the establishment, business or office for a period not exceeding seven business days, to facilitate the training of the management and staff in order to ensure that the business, establishment or office complies with the Public Health protocols.
+
+17. Duty and powers of Police Force.—(1) It shall be the duty of every police officer to enforce (using reasonable force if necessary) compliance with these Regulations and with any order, instruction or condition lawfully made, given or imposed by any officer or other person under the authority of these Regulations, and for such purpose any police officer may enter any premises without a warrant.
+
+(2) Any police officer may arrest without a warrant any person whom he or she has reasonable cause to believe has committed an offence against these Regulations.
+
+18. Penalty.—(1) A person who contravenes or fails to comply with these Regulations, or any direction for the purposes of these Regulations, shall be guilty of an offence and, on summary conviction, is liable to a fine not exceeding one thousand dollars and to imprisonment for a term not exceeding twelve months.
+
+(2) Without prejudice to sub-regulation (1), a person who commits an offence is liable on service of a fixed penalty notice by a police officer, if the person so chooses, to a fixed penalty of five hundred and fifty dollars.
+
+19. Fixed penalty notice.—(1) Where a police officer has reason to believe that a person has committed an offence specified under regulation 18 (1), the police officer may direct the person to state his or her true name and place of residence and serve upon the person a fixed penalty.
+
+(2) A person who refuses to comply with sub-regulation (1) commits an offence.
+
+(3) Where a police officer has served a fixed penalty notice upon a person, the police officer shall– (a) charge the person with the commission of an offence; and 2021 (b) notify the person that, if he or she does not wish to be prosecuted for the alleged offence in court, he or she may pay to the clerk of the Magistrate's Court in the district in which the offence was committed the fixed penalty prescribed for the offence in the fixed penalty notice within the time specified.
+
+(4) A person upon whom a fixed penalty notice is served may decline to be dealt with under regulations 19 to 23 and where he or she fails to pay the fixed penalty within the time specified in the fixed penalty notice, or within such further time as may be allowed in a particular case, his or her conduct constitutes a declination to be dealt with under regulations 19 to 23.
+
+(5) A police officer shall serve a fixed penalty notice personally upon a person alleged to have committed an offence specified under regulation 18 (2) and shall send a duplicate of the fixed penalty notice to the Magistrate's Court of the district in which the offence is alleged to have been committed.
+
+(6) Where the fixed penalty is not paid within the time specified in accordance with regulation 21 (2), the duplicate sent to the Magistrate's Court under sub-regulation (5) shall constitute a complaint laid before the Magistrate to institute proceedings in accordance with the Criminal Procedure Code, Chapter 72B.
+
+(7) A fixed penalty notice shall be signed by the police officer and shall be in the manner specified under Schedule I, specifying the following– (a) the date, time and place of service of the fixed penalty notice;
+
+(b) the provision of these Regulations creating the offence alleged, and such particulars of the offence as are required under these Regulations;
+
+(c) the amount of the fixed penalty;
+
+(d) the time within which the fixed penalty may be paid in accordance with regulation 21 (2); and
+
+(e) the clerk of the Magistrate's Court to whom, and the address at or to which, the fixed penalty may be paid or remitted.
+
+20. Payment of fixed penalty.—(1) Payment of the fixed penalty shall be made to the clerk of the Magistrate's Court as stated in the fixed penalty notice, and shall be Regulations dealt with in the same manner as payment of a fine imposed for an offence under the Criminal Procedure Code, Chapter 72B.
+
+(2) Payment of the fixed penalty shall be accompanied by the fixed penalty notice which shall be completed by the person in the manner prescribed.
+
+21. Payment of fixed penalty precludes prosecution.—(1) A person upon whom a fixed penalty notice is served may pay the fixed penalty in accordance with the fixed penalty notice.
+
+(2) The time within which a fixed penalty is payable is thirty-one days from the date of the fixed penalty notice.
+
+(3) Where the fixed penalty is paid in accordance with the fixed penalty notice, no person shall then be liable to be convicted for the offence for which the fixed penalty notice was served and the complaint laid before the Magistrate shall be null and void.
+
+22. Certificate of payment or non-payment of fixed penalty.—(1) In any proceedings for an offence specified under regulation 18 (2), a certificate that payment of the fixed penalty was or was not made to the clerk of the Magistrate's Court by the date specified in the certificate shall, if the certificate purports to be signed by such clerk, be sufficient evidence of the facts stated, unless the contrary is proved.
+
+23. Consequence of failure to pay.—(1) Where a fixed penalty is not paid within the time specified in accordance with regulation 21 (2), proceedings in respect of the offence specified in the fixed penalty notice shall thereafter proceed in the manner prescribed by the Criminal Procedure Code, Chapter 72B.
+
+24. Transitional provisions.—(1) Every approval granted under–
+
+(a) the Emergency Powers (COVID-19) (No. 3) Regulations, 2021, SRO No. 36 of 2021;
+
+(b) the Emergency Powers (COVID-19) (No. 4) Regulations, 2021, SRO No. 38 of 2021;
+
+(c) the Emergency Powers (COVID-19) (No. 5) Regulations, 2021, SRO No. 42 of 2021; 2021 (d) the Emergency Powers (COVID-19) (No. 6) Regulations, 2021, SRO No. 47 of 2021;
+
+(e) the Emergency Powers (COVID-19) (No. 7) Regulations, 2021, SRO No. 49 of 2021; and
+
+(f) the Emergency Powers (COVID-19) (No. 8) Regulations, 2021, SRO No. 58 of 2021, shall apply as if it were granted under these Regulations. _____________ SCHEDULE I (regulation 19 (7)) Emergency Powers Act, Chapter 88 Notice of Opportunity to Pay Fixed Penalty Take Notice that, I, ….………… ……….…… ………..…………………………… (Rank) (Number) (Name of Police Officer) have reason to believe that an offence, particulars of which are given overleaf, has been committed. The fixed penalty for the offence is ………………………………………. (penalty in words and figures) If this amount is paid to the Clerk of the Magistrate's Court within thirty-one (31) days from the date of this notice, that is to say, not later than …………………….. no proceedings will be taken and any liability to conviction of the offence will be discharged. The offence carries a maximum fine of $ …………….........……………. In paying the fixed penalty, the following conditions shall be observed– (1) The fixed penalty shall be accompanied by this notice.
+
+(2) Where payment of the fixed penalty is made otherwise than in conformity with the regulations made under the Emergency Powers Act, the Clerk shall as soon as practicable after payment return the amount paid to the sender, and thereafter proceedings in respect of the alleged offence shall begin.
+
+(3) Payment of the fixed penalty shall be made or remitted to– Regulations "The Clerk of the Magistrate's Court" at the following address– ………………………………………………………………….. ………………………………………………….. (State name and address of court) This notice was given at …………………………......………………………………. on …………………………, 20…….., at ………………………..……….. a.m./p.m. (state date) (state time) PARTICULARS OF OFFENCE At ………… a.m./p.m. on the …………. day of ………………… , 20……………. at ………………………………………………………………………………………… ………………………………………………………………………………………… you …………………………………………………………………………………… ………………………………………………………………………………………… …………………………………...……………..…………………………………..… contrary to ………………………………………………………………………..….. (state specific regulation/section contravened) of the ……………………….……………………..…………………………….……. (state Regulations or SRO Number/Act) …...............………………………… Signature of Police Officer. 2021 SCHEDULE II (regulations 6 (2) and 7) ESTABLISHMENTS SUBJECT TO REGULATION 9 1. hotels and guest houses 2. food vendors, restaurants and bars offering dining services 3. gyms and fitness centres 4. businesses and establishments of the beauty salon industry including barbers, hairdressers, makeup artists, manicurists, pedicurists, nail technicians, shampoo technicians, hair colour specialists, cosmetologists, aestheticians, skincare specialists, laser hair removal specialists, electrologists, spa therapists, beauty therapists, tattoo artists, and body piercing artists 5. call centres 6. cinemas 7. businesses offering chartering services of vessels for social activities 8. premises offering gaming services for the purposes of the Gaming Act, 2016. Made this 6th day of December, 2021. RUTH E. ROUSE Secretary to the Cabinet. GRENADA PRINTED BY THE GOVERNMENT PRINTER, AT THE GOVERNMENT PRINTING OFFICE, ST. GEORGE'S 7/12/2021.
