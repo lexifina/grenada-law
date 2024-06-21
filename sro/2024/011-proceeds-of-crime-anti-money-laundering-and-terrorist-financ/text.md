@@ -1,0 +1,5 @@
+A 69 SRO. 11 Proceeds of Crime (Anti-Money Laundering and Terrorist Financing) (Amendment) Regulations GRENADA STATUTORY RULES AND ORDERS NO. 11 OF 2024 The Minister in exercise of the power conferred on him by section 64 of the Proceeds of Crime Act No. 6 of 2012, after consultation with the Anti- Money Laundering and Combatting Terrorism Financing Commission, hereby makes the following Regulations– (Gazetted 21st June, 2024).
+
+1. Citation. These Regulations may be cited as the PROCEEDS OF CRIME (ANTI-MONEY LAUNDERING AND TERRORIST FINANCING) (AMENDMENT) REGULATIONS, 2024, and shall be read as one with the Proceeds of Crime (Anti-Money Laundering and Terrorist Financing) Regulations, SRO No. 5 of 2012 hereinafter referred to as the "principal Regulations".
+
+2. Amendment of regulation 3 of principal Regulations. Regulation 3 of the principal Regulations is amended by repealing sub-regulation (3). Made by the Minister this 17th day of June, 2024. DENNIS CORNWALL Minister for Finance. GRENADA PRINTED BY THE GOVERNMENT PRINTER, AT THE GOVERNMENT PRINTING OFFICE, ST. GEORGE'S 21/6/2024.
