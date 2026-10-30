@@ -1,0 +1,103 @@
+{
+ "country": "GD",
+ "acts": [
+  {
+   "slug": "constitution",
+   "short": "Const.",
+   "title": "Constitution of Grenada (Grenada Constitution Act, Cap. 128A, Schedule)",
+   "url": "https://laws.gov.gd/index.php/chapters/g-120-132/1201-cap128a-grenada-constitution-act/download",
+   "versions": [
+    {
+     "from": "1974-02-07",
+     "units": 120,
+     "source_url": "https://laws.gov.gd/index.php/chapters/g-120-132/1201-cap128a-grenada-constitution-act/download",
+     "sha256": "ce7b98068df12faeca1e3e1b3f0f9f10f94594a556a17cc512769b2746658bde"
+    }
+   ]
+  },
+  {
+   "slug": "criminal-code",
+   "short": "Criminal Code",
+   "title": "Criminal Code (Cap. 72A)",
+   "url": "https://laws.gov.gd/index.php/chapters/c-39a-75d/1107-cap72a-criminal-code/download",
+   "versions": [
+    {
+     "from": "1987-01-20",
+     "units": 458,
+     "source_url": "https://laws.gov.gd/index.php/chapters/c-39a-75d/1107-cap72a-criminal-code/download",
+     "sha256": "0e76a6b8834dc701e53ced45f52b108732c002a0b46ed9f66cfc29bf8228e5f1"
+    }
+   ]
+  },
+  {
+   "slug": "companies-act",
+   "short": "Companies Act",
+   "title": "Companies Act (Cap. 58A)",
+   "url": "https://laws.gov.gd/index.php/chapters/c-39a-75d/1087-cap58a-companies-act/download",
+   "versions": [
+    {
+     "from": "1994-11-18",
+     "units": 552,
+     "source_url": "https://laws.gov.gd/index.php/chapters/c-39a-75d/1087-cap58a-companies-act/download",
+     "sha256": "90ccf7dda09e220237f277db936cfadf8d24bf8b60718ca023bf322c65d27c7f"
+    }
+   ]
+  },
+  {
+   "slug": "criminal-procedure-code",
+   "short": "Criminal Procedure Code",
+   "title": "Criminal Procedure Code (Cap. 72B)",
+   "url": "https://laws.gov.gd/index.php/chapters/c-39a-75d/1108-cap72b-criminal-procedure-code/download",
+   "versions": [
+    {
+     "from": "1897-01-20",
+     "units": 203,
+     "source_url": "https://laws.gov.gd/index.php/chapters/c-39a-75d/1108-cap72b-criminal-procedure-code/download",
+     "sha256": "132580404ee81500d9cf49e197812c4acd86a25d95fb3bbfd5eaf14e853f4557"
+    }
+   ]
+  },
+  {
+   "slug": "evidence-act",
+   "short": "Evidence Act",
+   "title": "Evidence Act (Cap. 92)",
+   "url": "https://laws.gov.gd/index.php/chapters/e-85-98a/1151-cap92-evidence-act/download",
+   "versions": [
+    {
+     "from": "1897-01-20",
+     "units": 182,
+     "source_url": "https://laws.gov.gd/index.php/chapters/e-85-98a/1151-cap92-evidence-act/download",
+     "sha256": "b4ade94c7280279d88873c7c907e2c269dc9844421c09638c9ef71ed04010d82"
+    }
+   ]
+  },
+  {
+   "slug": "employment-act",
+   "short": "Employment Act",
+   "title": "Employment Act (Cap. 89)",
+   "url": "https://laws.gov.gd/index.php/chapters/e-85-98a/1146-cap89-employment-act/download",
+   "versions": [
+    {
+     "from": "2000-04-17",
+     "units": 93,
+     "source_url": "https://laws.gov.gd/index.php/chapters/e-85-98a/1146-cap89-employment-act/download",
+     "sha256": "b98e47af82ca0e94c272ae101d7d3c10cca7aa0db7e981705977f8c3207a57e5"
+    }
+   ]
+  },
+  {
+   "slug": "interpretation-act",
+   "short": "Interpretation Act",
+   "title": "Interpretation and General Provisions Act (Cap. 153)",
+   "url": "https://laws.gov.gd/index.php/chapters/i-144-155/1250-cap153-interpretation-and-general-provisions-act/download",
+   "versions": [
+    {
+     "from": "1989-09-22",
+     "units": 69,
+     "source_url": "https://laws.gov.gd/index.php/chapters/i-144-155/1250-cap153-interpretation-and-general-provisions-act/download",
+     "sha256": "a36d8d7a304825ce68e516d6eb9f2cafe490c855c7d19ae457ad9f5e88071835"
+    }
+   ]
+  }
+ ]
+}
