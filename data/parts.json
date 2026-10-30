@@ -1,0 +1,29 @@
+{
+ "parts": {
+  "30-criminal-procedure-code.json": {
+   "acts": [
+    "criminal-procedure-code"
+   ],
+   "sha256": "28027e33330f59f0a164200fa9df0a2598a6bc5ede5a65a70e408bc71c5bf0da"
+  },
+  "40-evidence-act.json": {
+   "acts": [
+    "evidence-act"
+   ],
+   "sha256": "a2af0f00e0c4aa5f840981bb65ea45e8cfc73650b06c8f58f60b728c80281587"
+  },
+  "50-employment-act.json": {
+   "acts": [
+    "employment-act"
+   ],
+   "sha256": "de388eb614aa40ebada5093ea06c1a30be8501a365431955bd6152be4b1cf0c0"
+  },
+  "60-interpretation-act.json": {
+   "acts": [
+    "interpretation-act"
+   ],
+   "sha256": "418ec24efe33272e9b1dfb4f9d7947b86941b211704938595104310d9e42c82d"
+  }
+ },
+ "schema": 1
+}
