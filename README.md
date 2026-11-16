@@ -58,6 +58,7 @@ Every version is credited to the publisher, `Laws of Grenada (laws.gov.gd)`, as 
 - Every commit's trailers parse; there are no merge commits, no dates that go backwards and none after the build.
 - A second build from the same corpus gave the same hashes for all 7 commits and 7 tags; `data/versions.json` gives each source PDF's sha256. The results are in [`REPRODUCE.md`](REPRODUCE.md).
 - History is append-only: later versions are appended, never forced.
+- [vulnerabilities/](vulnerabilities/): possible drafting mistakes in this law, found by global-law's detectors and checked by hand. Not run yet.
 
 ## What it does not show
 
@@ -77,6 +78,10 @@ Every version is credited to the publisher, `Laws of Grenada (laws.gov.gd)`, as 
 See [`LICENSE`](LICENSE). The Laws of Grenada site states no licence; Lexifina's own contributions (the arrangement of the history, the commit messages and the tools) are dedicated to the public domain under CC0 1.0.
 
 No AI model wrote, translated or corrected legal text, and no model runs when the history is built; the scripts were written by an AI model (see [`REPRODUCE.md`](REPRODUCE.md)).
+
+## Visualisations
+
+- [visualisations/](visualisations/): charts drawn from this repository. Not drawn yet.
 
 ## More
 
