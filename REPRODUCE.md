@@ -86,3 +86,7 @@ The commit messages are written by `build.py` from the source data.
 
 Model use at data-build time:
 - none
+
+## chapters/, acts/ and sro/
+
+Built from the laws.gov.gd category listings (`/index.php/chapters`, `/acts/<year>`, `/s-r-o/<year>`) and each document's `/download` PDF, with one request at a time, one second apart. The scripts (`gd_fetch.py`, `gd_build.py`) are in the Lexifina scripts folder; each commit's `Source-sha256` trailer is the PDF's hash. Dating rules: `STRUCTURE.md`.

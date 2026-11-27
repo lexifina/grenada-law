@@ -9,7 +9,7 @@ The law of Grenada as a git history: one file per section, one commit per versio
 
 Part of [lexifina/global-law](https://github.com/lexifina/global-law), one git history for every country's law: this is Grenada's national law, which global-law reads at `grenada/national/acts/`.
 
-**What is in it now:** seven acts of the Laws of Grenada, each in one version, the current consolidated text, with 1,677 provisions: the Constitution (Cap. 128A, Schedule), the Criminal Code (Cap. 72A), the Criminal Procedure Code (Cap. 72B), the Evidence Act (Cap. 92), the Companies Act (Cap. 58A), the Employment Act (Cap. 89) and the Interpretation and General Provisions Act (Cap. 153). [`REPRODUCE.md`](REPRODUCE.md) lists each act with its version and the choices made for it.
+**What is in it now:** seven acts built first (1,677 provisions) and, from the Laws of Grenada site, 0 more chapters of the Revised Laws (`chapters/`), 0 Acts as enacted (`acts/`) and 1 Statutory Rules and Orders (`sro/`), one commit each; see [`STRUCTURE.md`](STRUCTURE.md).
 
 Each act is a folder named after it, with one file per section and one per schedule or appendix, and a `README.md` listing its provisions (`employment-act/sec-056.md` is section 56 of the Employment Act, annual leave). The Constitution is in `constitution/`, with its preamble, Appendices 1 to 3 and the transitional provisions.
 
@@ -62,7 +62,7 @@ Every version is credited to the publisher, `Laws of Grenada (laws.gov.gd)`, as 
 
 ## What it does not show
 
-- **Most Grenadian law.** Only these seven acts: no other chapter of the Revised Laws, no later annual Acts, no statutory rules and orders and no case law.
+- **All Grenadian law.** The site's other documents are held or not yet built (see `STRUCTURE.md`); there is no case law here and no earlier consolidations.
 - **Past versions.** The site gives each act only as currently consolidated; amendments already in it (to Act No. 15 of 2007 for the Criminal Code) are not separate commits, so an earlier date gives today's text.
 - **The rest of each PDF.** Subsidiary legislation printed with an act (the Companies Regulations, for one) and the two sections of the Grenada Constitution Act itself are left out; sections 47 to 50 of the Criminal Procedure Code print no text, so they have no file.
 - **Layout.** Part and Title headings are not kept, and tables are given row by row.
