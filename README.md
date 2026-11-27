@@ -9,7 +9,7 @@ The law of Grenada as a git history: one file per section, one commit per versio
 
 Part of [lexifina/global-law](https://github.com/lexifina/global-law), one git history for every country's law: this is Grenada's national law, which global-law reads at `grenada/national/acts/`.
 
-**What is in it now:** seven acts built first (1,677 provisions) and, from the Laws of Grenada site, 1 more chapters of the Revised Laws (`chapters/`), 23 Acts as enacted (`acts/`) and 570 Statutory Rules and Orders (`sro/`), one commit each; see [`STRUCTURE.md`](STRUCTURE.md).
+**What is in it now:** seven acts built first (1,677 provisions) and, from the Laws of Grenada site, 224 more chapters of the Revised Laws (`chapters/`), 23 Acts as enacted (`acts/`) and 573 Statutory Rules and Orders (`sro/`), one commit each; see [`STRUCTURE.md`](STRUCTURE.md).
 
 Each act is a folder named after it, with one file per section and one per schedule or appendix, and a `README.md` listing its provisions (`employment-act/sec-056.md` is section 56 of the Employment Act, annual leave). The Constitution is in `constitution/`, with its preamble, Appendices 1 to 3 and the transitional provisions.
 
